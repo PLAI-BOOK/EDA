@@ -10,10 +10,11 @@ def SQLtoDF(table_name):
     df = pd.read_sql_table(table_name, con=engine)
     return df
 
-def DFtoCSVandSAVE(table_name):
+def DFtoCSVandSAVE(table_name,file_path):
     df = SQLtoDF(table_name)
     file_name = table_name + ".csv"
-    csv = df.to_csv(file_name,index=False)
+    full_file_path = os.path.join(file_path, file_name)
+    csv = df.to_csv(str(full_file_path),index=False)
 
 def DB_backup_low_version():
     print("This is for the first backup - until Shapira fixes Postgres backup")
