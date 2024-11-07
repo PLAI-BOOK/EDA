@@ -1,0 +1,2540 @@
+game_id,team,team_id,period,minute,second,type,formation
+1729417,Burnley,184,2,45,0,FormationChange,4-4-2
+1729417,Nottingham Forest,174,2,57,16,FormationChange,4-2-3-1
+1729417,Nottingham Forest,174,2,79,30,FormationChange,3-4-3
+1729417,Burnley,184,2,82,33,FormationChange,4-4-2
+1729191,Man City,167,1,23,1,FormationChange,4-1-4-1
+1729191,Burnley,184,2,73,17,FormationChange,4-4-2
+1729191,Man City,167,2,79,14,FormationChange,4-1-4-1
+1729191,Man City,167,2,94,30,FormationChange,4-1-4-1
+1729191,Man City,167,1,0,0,FormationSet,4-2-3-1
+1729190,Nottingham Forest,174,2,71,6,FormationChange,3-4-3
+1729190,Arsenal,13,2,73,9,FormationChange,4-3-3
+1729190,Arsenal,13,2,85,46,FormationChange,4-3-3
+1729190,Nottingham Forest,174,2,89,45,FormationChange,4-3-3
+1729190,Nottingham Forest,174,1,0,0,FormationSet,3-4-3
+1729192,Bournemouth,183,2,75,0,FormationChange,4-2-3-1
+1729192,West Ham,29,2,85,18,FormationChange,4-2-3-1
+1729192,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729193,Luton,95,1,0,0,FormationSet,3-5-2
+1729194,Fulham,170,2,57,44,FormationChange,4-3-3
+1729194,Everton,31,2,82,53,FormationChange,4-4-1-1
+1729194,Fulham,170,1,0,0,FormationSet,4-3-3
+1729196,Aston Villa,24,2,45,0,FormationChange,4-2-3-1
+1729196,Aston Villa,24,2,63,11,FormationChange,19
+1729196,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729195,Sheff Utd,163,2,81,33,FormationChange,4-3-3
+1729195,Sheff Utd,163,1,0,0,FormationSet,3-4-3
+1729197,Brentford,189,2,71,50,FormationChange,5-3-2
+1729197,Tottenham,30,2,74,30,FormationChange,4-2-3-1
+1729197,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729198,Chelsea,15,2,75,34,FormationChange,3-4-2-1
+1729198,Liverpool,26,2,76,17,FormationChange,4-3-3
+1729198,Chelsea,15,2,89,34,FormationChange,4-3-3
+1729198,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729199,Wolves,161,2,62,25,FormationChange,4-2-3-1
+1729199,Wolves,161,2,87,20,FormationChange,4-4-2
+1729199,Man Utd,32,1,0,0,FormationSet,4-1-4-1
+1729249,Nottingham Forest,174,2,69,43,FormationChange,4-2-3-1
+1729249,Sheff Utd,163,2,73,46,FormationChange,3-4-2-1
+1729249,Nottingham Forest,174,1,0,0,FormationSet,3-4-3
+1729200,Fulham,170,2,63,6,FormationChange,4-3-3
+1729200,Fulham,170,2,67,18,FormationChange,4-4-1-1
+1729200,Brentford,189,2,78,37,FormationChange,4-4-2
+1729200,Fulham,170,2,85,46,FormationChange,4-4-1-1
+1729200,Brentford,189,2,88,24,FormationChange,4-4-2
+1729200,Fulham,170,1,0,0,FormationSet,4-3-3
+1729202,Liverpool,26,2,62,3,FormationChange,4-4-1-1
+1729202,Bournemouth,183,2,62,40,FormationChange,4-2-3-1
+1729202,Bournemouth,183,2,83,6,FormationChange,4-2-3-1
+1729202,Liverpool,26,2,86,0,FormationChange,4-4-1-1
+1729202,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729252,Newcastle,23,2,66,3,FormationChange,4-3-3
+1729252,Man City,167,1,0,0,FormationSet,4-2-3-1
+1729251,Man Utd,32,2,65,41,FormationChange,4-2-3-1
+1729251,Tottenham,30,2,69,36,FormationChange,4-2-3-1
+1729251,Man Utd,32,2,84,10,FormationChange,4-2-3-1
+1729251,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729254,Wolves,161,2,55,22,FormationChange,4-4-1-1
+1729254,Brighton,211,2,66,21,FormationChange,4-2-3-1
+1729254,Wolves,161,2,70,53,FormationChange,4-4-1-1
+1729254,Brighton,211,2,99,45,FormationChange,4-2-3-1
+1729254,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729250,Everton,31,1,37,47,FormationChange,4-4-1-1
+1729250,Everton,31,2,45,1,FormationChange,4-4-1-1
+1729250,Everton,31,2,50,4,FormationChange,4-1-4-1
+1729250,Aston Villa,24,2,63,44,FormationChange,3-4-2-1
+1729250,Aston Villa,24,1,0,0,FormationSet,4-2-3-1
+1729253,Chelsea,15,2,60,24,FormationChange,18
+1729253,West Ham,29,2,69,10,FormationChange,4-2-3-1
+1729253,Chelsea,15,2,74,25,FormationChange,18
+1729253,West Ham,29,2,80,40,FormationChange,4-2-3-1
+1729253,Chelsea,15,2,82,27,FormationChange,18
+1729253,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729203,Arsenal,13,2,69,13,FormationChange,5-3-2
+1729203,Arsenal,13,2,78,37,FormationChange,5-3-2
+1729203,Crystal Palace,162,2,82,48,FormationChange,4-2-3-1
+1729203,Arsenal,13,2,88,57,FormationChange,5-3-2
+1729203,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729260,Chelsea,15,2,45,0,FormationChange,4-1-4-1
+1729260,Luton,95,2,76,26,FormationChange,3-4-3
+1729260,Chelsea,15,2,82,31,FormationChange,4-1-4-1
+1729260,Chelsea,15,2,85,50,FormationChange,4-1-4-1
+1729260,Luton,95,1,0,0,FormationSet,5-3-2
+1729256,Arsenal,13,2,55,35,FormationChange,4-3-3
+1729256,Fulham,170,2,62,25,FormationChange,4-3-3
+1729256,Arsenal,13,2,83,46,FormationChange,4-3-3
+1729256,Fulham,170,2,88,14,FormationChange,5-3-2
+1729256,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729255,Tottenham,30,2,59,8,FormationChange,4-2-3-1
+1729255,Bournemouth,183,2,59,55,FormationChange,4-2-3-1
+1729255,Tottenham,30,2,73,31,FormationChange,4-2-3-1
+1729255,Bournemouth,183,2,85,52,FormationChange,4-4-2
+1729255,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729257,Crystal Palace,162,2,70,56,FormationChange,4-2-3-1
+1729257,Brentford,189,1,0,0,FormationSet,4-3-3
+1729258,West Ham,29,1,38,19,FormationChange,4-1-4-1
+1729258,West Ham,29,2,78,51,FormationChange,5-4-1
+1729258,West Ham,29,2,84,24,FormationChange,5-4-1
+1729258,West Ham,29,1,0,0,FormationSet,4-1-4-1
+1729261,Everton,31,2,65,19,FormationChange,4-1-4-1
+1729261,Everton,31,1,0,0,FormationSet,4-1-4-1
+1729262,Man Utd,32,2,60,5,FormationChange,4-2-3-1
+1729262,Nottingham Forest,174,2,69,26,FormationChange,3-4-2-1
+1729262,Man Utd,32,2,84,11,FormationChange,4-2-3-1
+1729262,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729259,Burnley,184,2,45,0,FormationChange,4-4-2
+1729259,Burnley,184,2,67,55,FormationChange,18
+1729259,Aston Villa,24,2,80,48,FormationChange,3-4-2-1
+1729259,Burnley,184,2,80,57,FormationChange,18
+1729259,Burnley,184,1,0,0,FormationSet,4-4-2
+1729263,Liverpool,26,1,32,39,FormationChange,4-4-1-1
+1729263,Liverpool,26,2,57,46,FormationChange,4-4-1-1
+1729263,Liverpool,26,2,76,57,FormationChange,4-4-1-1
+1729263,Newcastle,23,2,86,27,FormationChange,4-3-3
+1729263,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729264,Man City,167,2,85,48,FormationChange,4-2-3-1
+1729264,Man City,167,1,0,0,FormationSet,4-2-3-1
+1729272,Luton,95,2,71,1,FormationChange,5-3-2
+1729272,Luton,95,1,0,0,FormationSet,5-3-2
+1729266,Brentford,189,2,81,18,FormationChange,4-4-2
+1729266,Bournemouth,183,2,86,36,FormationChange,5-4-1
+1729266,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729267,Newcastle,23,2,57,32,FormationChange,4-3-3
+1729267,Newcastle,23,2,73,40,FormationChange,4-3-3
+1729267,Brighton,211,2,76,27,FormationChange,4-2-3-1
+1729267,Brighton,211,2,80,51,FormationChange,4-3-3
+1729267,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729268,Burnley,184,2,45,0,FormationChange,3-4-2-1
+1729268,Burnley,184,2,59,32,FormationChange,3-4-2-1
+1729268,Tottenham,30,2,71,38,FormationChange,4-2-3-1
+1729268,Burnley,184,2,73,36,FormationChange,4-1-4-1
+1729268,Tottenham,30,2,86,0,FormationChange,4-3-3
+1729268,Burnley,184,1,0,0,FormationSet,4-4-2
+1729269,Chelsea,15,2,61,46,FormationChange,4-2-3-1
+1729269,Nottingham Forest,174,2,72,14,FormationChange,3-4-2-1
+1729269,Chelsea,15,2,76,58,FormationChange,20
+1729269,Chelsea,15,1,0,0,FormationSet,3-4-2-1
+1729273,Fulham,170,1,15,20,FormationChange,4-3-3
+1729273,Man City,167,2,75,29,FormationChange,4-2-3-1
+1729273,Fulham,170,1,0,0,FormationSet,4-3-3
+1729274,Sheff Utd,163,2,67,24,FormationChange,3-5-2
+1729274,Everton,31,2,90,57,FormationChange,4-4-1-1
+1729274,Everton,31,1,0,0,FormationSet,4-4-1-1
+1729265,Man Utd,32,2,66,39,FormationChange,4-2-3-1
+1729265,Arsenal,13,2,98,3,FormationChange,4-3-3
+1729265,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729270,Crystal Palace,162,2,70,31,FormationChange,4-2-3-1
+1729270,Wolves,161,2,73,8,FormationChange,4-4-1-1
+1729270,Wolves,161,2,81,23,FormationChange,4-4-1-1
+1729270,Wolves,161,1,0,0,FormationSet,4-4-2
+1729271,Aston Villa,24,1,18,45,FormationChange,4-4-2
+1729271,Liverpool,26,2,64,28,FormationChange,4-3-3
+1729271,Liverpool,26,2,71,3,FormationChange,4-3-3
+1729271,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729276,Crystal Palace,162,1,24,9,FormationChange,4-2-3-1
+1729276,Aston Villa,24,2,70,55,FormationChange,4-4-2
+1729276,Crystal Palace,162,2,89,13,FormationChange,4-2-3-1
+1729276,Aston Villa,24,1,0,0,FormationSet,4-2-3-1
+1729278,Fulham,170,2,80,59,FormationChange,4-3-3
+1729278,Luton,95,2,81,4,FormationChange,4-4-2
+1729278,Luton,95,1,0,0,FormationSet,5-3-2
+1729279,Man Utd,32,2,63,48,FormationChange,3
+1729279,Man Utd,32,2,84,49,FormationChange,19
+1729279,Man Utd,32,1,0,0,FormationSet,3
+1729280,Brentford,189,1,41,22,FormationChange,5-3-2
+1729280,Brentford,189,2,71,43,FormationChange,5-3-2
+1729280,Newcastle,23,2,82,8,FormationChange,4-3-3
+1729280,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729282,Sheff Utd,163,2,69,32,FormationChange,3-5-2
+1729282,Tottenham,30,2,79,26,FormationChange,4-3-3
+1729282,Sheff Utd,163,2,85,22,FormationChange,3-5-2
+1729282,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729283,Man City,167,2,66,28,FormationChange,4-2-3-1
+1729283,West Ham,29,2,67,48,FormationChange,4-2-3-1
+1729283,West Ham,29,2,86,54,FormationChange,4-2-3-1
+1729283,Man City,167,2,94,23,FormationChange,4-2-3-1
+1729283,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729284,Liverpool,26,2,45,1,FormationChange,4-4-2
+1729284,Liverpool,26,2,55,19,FormationChange,4-3-3
+1729284,Wolves,161,2,77,23,FormationChange,4-2-3-1
+1729284,Wolves,161,1,0,0,FormationSet,4-2-3-1
+1729275,Chelsea,15,2,62,53,FormationChange,4-2-3-1
+1729275,Bournemouth,183,2,73,5,FormationChange,4-2-3-1
+1729275,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729277,Everton,31,1,0,0,FormationSet,5
+1729281,Nottingham Forest,174,2,52,47,FormationChange,4-2-3-1
+1729281,Nottingham Forest,174,1,0,0,FormationSet,4-2-3-1
+1729286,Brentford,189,2,61,2,FormationChange,3-5-2
+1729286,Everton,31,2,76,58,FormationChange,4-4-1-1
+1729286,Everton,31,1,0,0,FormationSet,4-4-1-1
+1729288,Burnley,184,1,19,36,FormationChange,4-3-3
+1729288,Man Utd,32,2,78,37,FormationChange,4-2-3-1
+1729288,Man Utd,32,2,88,21,FormationChange,4-2-3-1
+1729288,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729290,Crystal Palace,162,2,69,42,FormationChange,4-2-3-1
+1729290,Crystal Palace,162,2,90,9,FormationChange,4-2-3-1
+1729290,Fulham,170,1,0,0,FormationSet,4-3-3
+1729292,Wolves,161,2,45,2,FormationChange,5-4-1
+1729292,Wolves,161,2,83,19,FormationChange,5-4-1
+1729292,Luton,95,2,84,34,FormationChange,3-4-3
+1729292,Luton,95,1,0,0,FormationSet,3-4-3
+1729293,Nottingham Forest,174,1,38,58,FormationChange,5-4-1
+1729293,Man City,167,2,51,2,FormationChange,4-2-3-1
+1729293,Nottingham Forest,174,2,55,53,FormationChange,4-2-3-1
+1729293,Man City,167,2,56,25,FormationChange,5-3-2
+1729293,Nottingham Forest,174,2,74,53,FormationChange,3-4-2-1
+1729293,Man City,167,1,0,0,FormationSet,4-2-3-1
+1729285,Tottenham,30,2,78,5,FormationChange,4-3-3
+1729285,Arsenal,13,2,96,28,FormationChange,4-3-3
+1729285,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729287,Brighton,211,2,45,0,FormationChange,4-2-3-1
+1729287,Bournemouth,183,2,82,48,FormationChange,4-2-3-1
+1729287,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729289,Chelsea,15,2,60,7,FormationChange,4-2-3-1
+1729289,Chelsea,15,2,67,42,FormationChange,4-2-3-1
+1729289,Aston Villa,24,2,74,23,FormationChange,4-4-2
+1729289,Chelsea,15,2,78,43,FormationChange,4-2-3-1
+1729289,Aston Villa,24,2,80,19,FormationChange,4-4-1-1
+1729289,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1729291,West Ham,29,2,74,0,FormationChange,4-2-3-1
+1729291,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729294,Sheff Utd,163,2,45,0,FormationChange,4-3-1-2
+1729294,Newcastle,23,2,69,9,FormationChange,4-3-3
+1729294,Sheff Utd,163,2,73,48,FormationChange,5-3-2
+1729294,Newcastle,23,2,81,0,FormationChange,5-4-1
+1729294,Sheff Utd,163,1,0,0,FormationSet,3-4-2-1
+1729296,Brighton,211,2,45,0,FormationChange,4-4-2
+1729296,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729295,Bournemouth,183,2,58,48,FormationChange,4-2-3-1
+1729295,Arsenal,13,2,68,40,FormationChange,4-3-3
+1729295,Bournemouth,183,2,82,40,FormationChange,4-2-3-1
+1729295,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729297,Everton,31,2,45,0,FormationChange,4-4-1-1
+1729297,Luton,95,2,55,25,FormationChange,3-4-2-1
+1729297,Everton,31,2,59,48,FormationChange,4-4-2
+1729297,Luton,95,1,0,0,FormationSet,3-4-2-1
+1729299,Man Utd,32,2,60,18,FormationChange,4-2-3-1
+1729299,Man Utd,32,2,77,0,FormationChange,4-2-3-1
+1729299,Man Utd,32,2,87,27,FormationChange,4-2-3-1
+1729299,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729300,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729302,Liverpool,26,1,27,50,FormationChange,4-4-1-1
+1729302,Tottenham,30,2,68,6,FormationChange,4-2-3-1
+1729302,Liverpool,26,2,68,43,FormationChange,4-4-2
+1729302,Liverpool,26,2,73,17,FormationChange,3-5-2
+1729302,Liverpool,26,2,80,11,FormationChange,3-5-2
+1729302,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729303,West Ham,29,2,71,53,FormationChange,4-2-3-1
+1729303,Sheff Utd,163,2,79,0,FormationChange,3-5-2
+1729303,West Ham,29,2,92,23,FormationChange,5-4-1
+1729303,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729304,Man City,167,2,45,2,FormationChange,4-2-3-1
+1729304,Man City,167,2,79,13,FormationChange,20
+1729304,Wolves,161,2,86,0,FormationChange,3-4-3
+1729304,Wolves,161,1,0,0,FormationSet,3-4-3
+1729301,Nottingham Forest,174,2,60,2,FormationChange,3
+1729301,Brentford,189,2,68,23,FormationChange,4-2-3-1
+1729301,Brentford,189,2,74,36,FormationChange,3-5-2
+1729301,Nottingham Forest,174,2,80,15,FormationChange,3
+1729301,Brentford,189,2,88,56,FormationChange,3-5-2
+1729301,Brentford,189,1,0,0,FormationSet,4-3-3
+1729298,Chelsea,15,2,77,25,FormationChange,4-2-3-1
+1729298,Fulham,170,1,0,0,FormationSet,4-3-3
+1729201,Luton,95,1,0,0,FormationSet,3-4-2-1
+1729307,Burnley,184,1,0,0,FormationSet,4-3-3
+1729308,Crystal Palace,162,1,25,41,FormationChange,4-4-2
+1729308,Nottingham Forest,174,2,45,0,FormationChange,4-3-3
+1729308,Nottingham Forest,174,2,82,27,FormationChange,4-3-3
+1729308,Crystal Palace,162,1,0,0,FormationSet,4-3-3
+1729309,Bournemouth,183,2,66,20,FormationChange,4-4-2
+1729309,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729204,Sheff Utd,163,1,34,19,FormationChange,3-5-2
+1729204,Fulham,170,1,0,0,FormationSet,4-3-3
+1729205,Tottenham,30,2,45,0,FormationChange,4-2-3-1
+1729205,Tottenham,30,2,75,23,FormationChange,5-3-2
+1729205,Luton,95,1,0,0,FormationSet,4-4-2
+1729206,Man Utd,32,2,45,0,FormationChange,4-2-3-1
+1729206,Man Utd,32,2,70,53,FormationChange,4-2-3-1
+1729206,Man Utd,32,2,86,15,FormationChange,18
+1729206,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729305,Man City,167,2,67,51,FormationChange,4-3-3
+1729305,Man City,167,1,0,0,FormationSet,4-3-3
+1729306,Brighton,211,2,62,31,FormationChange,4-2-3-1
+1729306,Brighton,211,2,88,4,FormationChange,4-2-3-1
+1729306,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729207,West Ham,29,2,75,3,FormationChange,4-2-3-1
+1729207,Newcastle,23,2,81,43,FormationChange,4-3-3
+1729207,Newcastle,23,2,85,8,FormationChange,4-3-3
+1729207,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729208,Aston Villa,24,2,81,16,FormationChange,4-2-3-1
+1729208,Aston Villa,24,1,0,0,FormationSet,4-4-2
+1729209,Bournemouth,183,2,56,51,FormationChange,4-2-3-1
+1729209,Wolves,161,1,0,0,FormationSet,3-4-3
+1729211,Burnley,184,2,79,56,FormationChange,4-2-3-1
+1729211,Brentford,189,1,0,0,FormationSet,4-3-3
+1729212,Chelsea,15,2,65,14,FormationChange,4-2-3-1
+1729212,Arsenal,13,2,67,33,FormationChange,4-3-3
+1729212,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729213,Everton,31,1,41,35,FormationChange,4-4-1-1
+1729213,Everton,31,2,45,0,FormationChange,5-3-2
+1729213,Liverpool,26,2,61,32,FormationChange,4-3-3
+1729213,Everton,31,2,87,33,FormationChange,4-4-2
+1729213,Everton,31,1,0,0,FormationSet,4-4-1-1
+1729214,Brighton,211,1,15,20,FormationChange,4-2-3-1
+1729214,Brighton,211,2,65,11,FormationChange,4-2-3-1
+1729214,Man City,167,2,74,15,FormationChange,4-2-3-1
+1729214,Brighton,211,2,93,36,FormationChange,4-2-3-1
+1729214,Man City,167,2,95,54,FormationChange,4-2-3-1
+1729214,Man City,167,1,0,0,FormationSet,24
+1729215,Crystal Palace,162,2,45,0,FormationChange,4-3-3
+1729215,Crystal Palace,162,2,60,12,FormationChange,4-3-3
+1729215,Newcastle,23,2,69,35,FormationChange,4-3-3
+1729215,Crystal Palace,162,2,70,0,FormationChange,4-4-1-1
+1729215,Crystal Palace,162,1,0,0,FormationSet,4-3-3
+1729216,Luton,95,2,71,51,FormationChange,4-4-2
+1729216,Nottingham Forest,174,2,87,25,FormationChange,4-3-3
+1729216,Nottingham Forest,174,1,0,0,FormationSet,4-3-3
+1729217,Sheff Utd,163,1,0,0,FormationSet,4-4-2
+1729210,Aston Villa,24,2,85,9,FormationChange,4-4-2
+1729210,West Ham,29,2,89,39,FormationChange,4-2-3-1
+1729210,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729218,Tottenham,30,2,81,30,FormationChange,4-2-3-1
+1729218,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729224,Crystal Palace,162,2,59,40,FormationChange,4-2-3-1
+1729224,Crystal Palace,162,2,78,22,FormationChange,4-2-3-1
+1729224,Tottenham,30,2,89,13,FormationChange,4-2-3-1
+1729224,Crystal Palace,162,1,0,0,FormationSet,4-2-3-1
+1729220,Sheff Utd,163,2,70,54,FormationChange,4-4-2
+1729220,Arsenal,13,2,73,2,FormationChange,4-3-3
+1729220,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729219,Burnley,184,2,80,52,FormationChange,4-2-3-1
+1729219,Bournemouth,183,2,84,47,FormationChange,4-2-3-1
+1729219,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729223,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1729228,Newcastle,23,2,71,48,FormationChange,4-3-3
+1729228,Wolves,161,2,76,57,FormationChange,4-4-2
+1729228,Wolves,161,1,0,0,FormationSet,4-4-2
+1729221,Aston Villa,24,2,45,0,FormationChange,4-4-2
+1729221,Luton,95,2,57,2,FormationChange,3-4-2-1
+1729221,Luton,95,2,75,27,FormationChange,3-4-2-1
+1729221,Aston Villa,24,2,78,48,FormationChange,4-4-2
+1729221,Luton,95,1,0,0,FormationSet,3-4-2-1
+1729222,Fulham,170,2,57,25,FormationChange,4-2-3-1
+1729222,Brighton,211,2,78,2,FormationChange,3-4-2-1
+1729222,Fulham,170,2,85,37,FormationChange,4-2-3-1
+1729222,Fulham,170,2,91,23,FormationChange,4-2-3-1
+1729222,Brighton,211,1,0,0,FormationSet,3-4-2-1
+1729225,Nottingham Forest,174,2,70,5,FormationChange,4-3-3
+1729225,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729226,Man Utd,32,2,45,0,FormationChange,4-2-3-1
+1729226,Man Utd,32,2,73,5,FormationChange,4-2-3-1
+1729226,Man Utd,32,2,85,45,FormationChange,4-2-3-1
+1729226,Man City,167,2,86,42,FormationChange,4-3-3
+1729226,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729227,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729229,Brentford,189,1,0,0,FormationSet,4-3-3
+1729230,Crystal Palace,162,2,57,45,FormationChange,4-2-3-1
+1729230,Crystal Palace,162,2,85,42,FormationChange,5-4-1
+1729230,Burnley,184,2,86,5,FormationChange,4-4-2
+1729230,Burnley,184,1,0,0,FormationSet,4-4-2
+1729231,Brighton,211,2,45,0,FormationChange,4-4-2
+1729231,Everton,31,1,0,0,FormationSet,4-4-1-1
+1729232,Fulham,170,2,75,30,FormationChange,4-2-3-1
+1729232,Fulham,170,2,80,50,FormationChange,4-2-3-1
+1729232,Fulham,170,2,89,11,FormationChange,4-2-3-1
+1729232,Man Utd,32,2,92,57,FormationChange,5-4-1
+1729232,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1729234,Man City,167,2,45,0,FormationChange,3-4-2-1
+1729234,Man City,167,2,70,47,FormationChange,3-4-2-1
+1729234,Man City,167,2,84,41,FormationChange,3-4-2-1
+1729234,Man City,167,1,0,0,FormationSet,3-4-2-1
+1729235,Newcastle,23,2,45,0,FormationChange,4-3-3
+1729235,Newcastle,23,2,62,9,FormationChange,4-3-3
+1729235,Arsenal,13,2,72,56,FormationChange,4-3-3
+1729235,Arsenal,13,2,78,44,FormationChange,4-3-3
+1729235,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729237,Sheff Utd,163,2,45,0,FormationChange,3-4-2-1
+1729237,Wolves,161,2,60,13,FormationChange,3-4-2-1
+1729237,Wolves,161,2,80,18,FormationChange,3-4-2-1
+1729237,Sheff Utd,163,1,0,0,FormationSet,18
+1729233,Liverpool,26,2,82,30,FormationChange,4-3-3
+1729233,Luton,95,1,0,0,FormationSet,3-4-2-1
+1729236,Aston Villa,24,2,45,0,FormationChange,4-4-2
+1729236,Aston Villa,24,2,58,41,FormationChange,4-4-2
+1729236,Nottingham Forest,174,2,70,25,FormationChange,4-3-3
+1729236,Aston Villa,24,2,77,42,FormationChange,4-4-2
+1729236,Nottingham Forest,174,1,0,0,FormationSet,4-3-3
+1729238,Tottenham,30,1,33,28,FormationChange,4-3-1-2
+1729238,Tottenham,30,1,45,58,FormationChange,4-3-1-2
+1729238,Tottenham,30,2,54,14,FormationChange,9
+1729238,Chelsea,15,2,57,7,FormationChange,4-2-3-1
+1729238,Tottenham,30,2,60,36,FormationChange,4-3-1-2
+1729238,Chelsea,15,2,76,51,FormationChange,4-2-3-1
+1729238,Chelsea,15,2,90,13,FormationChange,4-2-3-1
+1729238,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729240,Burnley,184,2,84,45,FormationChange,4-4-2
+1729240,Arsenal,13,2,88,41,FormationChange,5-3-2
+1729240,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729239,Newcastle,23,2,65,38,FormationChange,4-3-3
+1729239,Newcastle,23,2,77,2,FormationChange,4-3-3
+1729239,Bournemouth,183,2,80,5,FormationChange,4-2-3-1
+1729239,Newcastle,23,2,94,10,FormationChange,4-3-3
+1729239,Bournemouth,183,2,95,23,FormationChange,4-2-3-1
+1729239,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729244,Crystal Palace,162,2,66,43,FormationChange,4-2-3-1
+1729244,Crystal Palace,162,2,88,39,FormationChange,4-1-4-1
+1729244,Crystal Palace,162,1,0,0,FormationSet,4-2-3-1
+1729246,Luton,95,2,72,19,FormationChange,3-4-2-1
+1729246,Man Utd,32,2,78,35,FormationChange,4-2-3-1
+1729246,Luton,95,2,86,3,FormationChange,3-4-2-1
+1729246,Luton,95,1,0,0,FormationSet,3-4-2-1
+1729248,Wolves,161,2,72,30,FormationChange,3-4-3
+1729248,Wolves,161,2,86,22,FormationChange,3-4-3
+1729248,Tottenham,30,1,0,0,FormationSet,4-3-3
+1729241,Aston Villa,24,2,61,50,FormationChange,4-4-1-1
+1729241,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1729242,Brighton,211,2,45,0,FormationChange,4-2-3-1
+1729242,Brighton,211,2,70,34,FormationChange,4-4-1-1
+1729242,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729243,Chelsea,15,2,63,59,FormationChange,4-2-3-1
+1729243,Chelsea,15,2,89,15,FormationChange,21
+1729243,Chelsea,15,2,95,41,FormationChange,4-2-3-1
+1729243,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1729245,Brentford,189,2,45,0,FormationChange,5-3-2
+1729245,Brentford,189,1,0,0,FormationSet,5-3-2
+1729247,Nottingham Forest,174,2,75,37,FormationChange,4-3-3
+1729247,West Ham,29,2,78,31,FormationChange,4-2-3-1
+1729247,Nottingham Forest,174,2,89,52,FormationChange,4-4-2
+1729247,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729535,Arsenal,13,2,78,37,FormationChange,4-3-3
+1729535,Brentford,189,2,90,0,FormationChange,3-4-3
+1729535,Arsenal,13,2,92,16,FormationChange,5-4-1
+1729535,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729536,West Ham,29,2,62,15,FormationChange,4-2-3-1
+1729536,Burnley,184,2,96,9,FormationChange,4-4-2
+1729536,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729539,Luton,95,2,78,59,FormationChange,3-4-2-1
+1729539,Luton,95,1,0,0,FormationSet,3-4-2-1
+1729540,Liverpool,26,2,84,29,FormationChange,4-3-3
+1729540,Man City,167,1,0,0,FormationSet,24
+1729541,Chelsea,15,2,72,34,FormationChange,4-2-3-1
+1729541,Chelsea,15,2,74,10,FormationChange,4-2-3-1
+1729541,Newcastle,23,2,80,42,FormationChange,4-3-3
+1729541,Newcastle,23,2,92,17,FormationChange,4-3-3
+1729541,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729542,Brighton,211,2,76,53,FormationChange,4-2-3-1
+1729542,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729543,Sheff Utd,163,2,45,0,FormationChange,3-5-2
+1729543,Bournemouth,183,2,82,14,FormationChange,4-2-3-1
+1729543,Sheff Utd,163,1,0,0,FormationSet,3-4-2-1
+1729537,Man Utd,32,2,71,43,FormationChange,4-2-3-1
+1729537,Man Utd,32,2,75,49,FormationChange,4-2-3-1
+1729537,Man Utd,32,2,84,10,FormationChange,4-2-3-1
+1729537,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729544,Tottenham,30,2,70,37,FormationChange,4-2-3-1
+1729544,Tottenham,30,2,85,19,FormationChange,4-4-2
+1729544,Aston Villa,24,2,91,6,FormationChange,4-4-2
+1729544,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729538,Fulham,170,2,75,46,FormationChange,4-2-3-1
+1729538,Wolves,161,2,82,51,FormationChange,3-5-2
+1729538,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1729546,Wolves,161,2,62,11,FormationChange,3-4-3
+1729546,Arsenal,13,2,77,4,FormationChange,4-3-3
+1729546,Wolves,161,2,92,38,FormationChange,3-5-2
+1729546,Arsenal,13,2,92,45,FormationChange,5-4-1
+1729546,Wolves,161,1,0,0,FormationSet,3-5-2
+1729547,Luton,95,2,45,0,FormationChange,3-4-2-1
+1729547,Luton,95,2,60,6,FormationChange,3-4-2-1
+1729547,Luton,95,2,75,10,FormationChange,4-2-3-1
+1729547,Brentford,189,2,92,0,FormationChange,4-3-3
+1729547,Brentford,189,1,0,0,FormationSet,4-3-3
+1729548,Sheff Utd,163,2,45,0,FormationChange,4-4-1-1
+1729548,Burnley,184,1,0,0,FormationSet,4-4-2
+1729552,Man Utd,32,2,79,32,FormationChange,4-2-3-1
+1729552,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729553,Everton,31,1,6,45,FormationChange,4-4-1-1
+1729553,Nottingham Forest,174,2,64,43,FormationChange,4-2-3-1
+1729553,Nottingham Forest,174,1,0,0,FormationSet,4-3-3
+1729545,Aston Villa,24,2,65,0,FormationChange,4-4-2
+1729545,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729549,Chelsea,15,1,46,19,FormationChange,4-2-3-1
+1729549,Brighton,211,2,57,26,FormationChange,4-2-3-1
+1729549,Chelsea,15,2,71,38,FormationChange,4-2-3-1
+1729549,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729550,Fulham,170,2,61,50,FormationChange,4-2-3-1
+1729550,Liverpool,26,2,82,24,FormationChange,4-2-2-2
+1729550,Fulham,170,2,89,52,FormationChange,4-4-2
+1729550,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1729551,Tottenham,30,2,45,0,FormationChange,4-2-3-1
+1729551,Tottenham,30,2,87,11,FormationChange,4-2-3-1
+1729551,Man City,167,1,0,0,FormationSet,24
+1729554,Crystal Palace,162,2,81,58,FormationChange,4-2-3-1
+1729554,West Ham,29,2,88,4,FormationChange,4-2-3-1
+1729554,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729559,Luton,95,2,61,7,FormationChange,3-4-2-1
+1729559,Luton,95,2,87,54,FormationChange,3-4-2-1
+1729559,Luton,95,1,0,0,FormationSet,3-4-2-1
+1729562,Burnley,184,1,35,9,FormationChange,4-4-2
+1729562,Burnley,184,2,91,31,FormationChange,4-4-2
+1729562,Wolves,161,1,0,0,FormationSet,3-4-3
+1729555,Aston Villa,24,2,90,0,FormationChange,4-4-2
+1729555,Aston Villa,24,1,0,0,FormationSet,4-4-1-1
+1729556,Brighton,211,2,69,10,FormationChange,4-2-3-1
+1729556,Brentford,189,1,0,0,FormationSet,4-4-2
+1729563,Bournemouth,183,2,61,23,FormationChange,4-2-3-1
+1729563,Crystal Palace,162,2,68,59,FormationChange,4-2-3-1
+1729563,Crystal Palace,162,1,0,0,FormationSet,4-2-3-1
+1729558,Nottingham Forest,174,2,45,2,FormationChange,4-2-3-1
+1729558,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1729564,Man Utd,32,2,45,6,FormationChange,4-2-3-1
+1729564,Chelsea,15,2,45,10,FormationChange,4-2-3-1
+1729564,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729560,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729557,Everton,31,2,66,15,FormationChange,4-4-1-1
+1729557,Newcastle,23,2,89,32,FormationChange,4-4-2
+1729557,Everton,31,1,0,0,FormationSet,4-4-1-1
+1729561,Tottenham,30,2,66,34,FormationChange,4-2-3-1
+1729561,Tottenham,30,2,83,25,FormationChange,4-4-2
+1729561,Tottenham,30,2,87,41,FormationChange,4-4-2
+1729561,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729565,Aston Villa,24,1,0,0,FormationSet,4-4-1-1
+1729566,Brighton,211,2,45,0,FormationChange,4-2-3-1
+1729566,Burnley,184,2,81,40,FormationChange,5-4-1
+1729566,Brighton,211,2,84,28,FormationChange,4-4-2
+1729566,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729567,Liverpool,26,2,45,0,FormationChange,4-3-3
+1729567,Crystal Palace,162,2,67,14,FormationChange,4-3-3
+1729567,Liverpool,26,2,73,14,FormationChange,4-3-3
+1729567,Crystal Palace,162,2,83,43,FormationChange,4-4-1-1
+1729567,Crystal Palace,162,1,0,0,FormationSet,4-3-3
+1729488,Bournemouth,183,2,59,14,FormationChange,4-2-3-1
+1729488,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729489,Sheff Utd,163,2,52,47,FormationChange,4-1-4-1
+1729489,Brentford,189,2,65,40,FormationChange,5-3-2
+1729489,Sheff Utd,163,2,72,5,FormationChange,5-4-1
+1729489,Sheff Utd,163,1,0,0,FormationSet,4-1-4-1
+1729491,Nottingham Forest,174,1,0,0,FormationSet,3-5-2
+1729568,Chelsea,15,1,26,35,FormationChange,4-2-3-1
+1729568,Chelsea,15,2,83,25,FormationChange,4-2-3-1
+1729568,Everton,31,1,0,0,FormationSet,4-4-1-1
+1729569,West Ham,29,2,45,0,FormationChange,3-4-2-1
+1729569,West Ham,29,2,64,5,FormationChange,3-4-2-1
+1729569,West Ham,29,1,0,0,FormationSet,4-4-1-1
+1729487,Man City,167,2,68,14,FormationChange,4-2-3-1
+1729487,Luton,95,2,89,17,FormationChange,4-4-2
+1729487,Man City,167,2,92,40,FormationChange,5-4-1
+1729487,Man City,167,1,0,0,FormationSet,4-2-3-1
+1729490,Newcastle,23,2,63,50,FormationChange,4-3-3
+1729490,Tottenham,30,2,72,55,FormationChange,4-2-3-1
+1729490,Tottenham,30,2,90,24,FormationChange,4-2-3-1
+1729490,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729500,Nottingham Forest,174,2,67,27,FormationChange,4-3-1-2
+1729500,Nottingham Forest,174,2,88,0,FormationChange,4-2-3-1
+1729500,Tottenham,30,2,88,2,FormationChange,4-2-3-1
+1729500,Nottingham Forest,174,1,0,0,FormationSet,3-5-2
+1729495,Everton,31,2,45,0,FormationChange,5-4-1
+1729495,Burnley,184,1,0,0,FormationSet,4-4-2
+1729496,Chelsea,15,2,75,31,FormationChange,4-2-3-1
+1729496,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1729498,Crystal Palace,162,1,33,35,FormationChange,5-4-1
+1729498,Crystal Palace,162,2,90,20,FormationChange,4-2-3-1
+1729498,Man City,167,1,0,0,FormationSet,4-2-3-1
+1729499,Newcastle,23,1,13,35,FormationChange,4-3-3
+1729499,Fulham,170,1,21,56,FormationChange,4-2-3-1
+1729499,Fulham,170,2,60,29,FormationChange,4-2-3-1
+1729499,Fulham,170,2,76,21,FormationChange,4-2-3-1
+1729499,Newcastle,23,2,83,41,FormationChange,4-3-3
+1729499,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729493,Brighton,211,2,78,15,FormationChange,4-2-3-1
+1729493,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729494,Brentford,189,2,70,37,FormationChange,3-5-2
+1729494,Brentford,189,2,75,21,FormationChange,3-5-2
+1729494,Aston Villa,24,2,80,47,FormationChange,3-5-2
+1729494,Aston Villa,24,2,89,14,FormationChange,3-5-2
+1729494,Aston Villa,24,2,98,35,FormationChange,3-5-2
+1729494,Aston Villa,24,1,0,0,FormationSet,3-5-2
+1729497,Liverpool,26,2,61,1,FormationChange,4-3-3
+1729497,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729501,West Ham,29,2,92,26,FormationChange,4-4-2
+1729501,Wolves,161,1,0,0,FormationSet,3-4-3
+1729503,Brighton,211,2,45,0,FormationChange,4-2-3-1
+1729503,Brighton,211,2,76,16,FormationChange,4-2-3-1
+1729503,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729502,Aston Villa,24,1,0,0,FormationSet,4-4-1-1
+1729504,Burnley,184,2,88,41,FormationChange,3-4-3
+1729504,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1729505,Liverpool,26,2,67,20,FormationChange,4-3-3
+1729505,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729506,Newcastle,23,1,37,7,FormationChange,4-2-3-1
+1729506,Luton,95,2,45,1,FormationChange,3-4-2-1
+1729506,Luton,95,2,75,10,FormationChange,3-4-2-1
+1729506,Luton,95,2,80,17,FormationChange,3-4-2-1
+1729506,Luton,95,1,0,0,FormationSet,3-4-2-1
+1729508,Nottingham Forest,174,1,30,55,FormationChange,4-2-3-1
+1729508,Bournemouth,183,2,81,49,FormationChange,4-2-3-1
+1729508,Nottingham Forest,174,1,0,0,FormationSet,4-2-3-1
+1729509,Everton,31,1,23,45,FormationChange,4-2-3-1
+1729509,Tottenham,30,2,62,53,FormationChange,4-2-3-1
+1729509,Everton,31,2,78,22,FormationChange,4-4-2
+1729509,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729510,Man Utd,32,2,84,7,FormationChange,4-2-3-1
+1729510,West Ham,29,2,86,56,FormationChange,4-2-3-1
+1729510,West Ham,29,2,93,1,FormationChange,4-2-3-1
+1729510,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729511,Chelsea,15,2,58,33,FormationChange,4-1-4-1
+1729511,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1729512,Bournemouth,183,2,72,32,FormationChange,4-2-3-1
+1729512,Fulham,170,2,84,38,FormationChange,4-4-2
+1729512,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1729516,Liverpool,26,2,66,25,FormationChange,4-3-3
+1729516,Burnley,184,2,84,36,FormationChange,4-4-2
+1729516,Burnley,184,1,0,0,FormationSet,4-4-2
+1729519,Man Utd,32,2,80,5,FormationChange,4-2-3-1
+1729519,Aston Villa,24,2,85,35,FormationChange,4-2-3-1
+1729519,Man Utd,32,2,88,19,FormationChange,5-3-2
+1729519,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729520,Newcastle,23,2,54,56,FormationChange,4-3-3
+1729520,Newcastle,23,2,78,41,FormationChange,4-3-3
+1729520,Nottingham Forest,174,2,90,2,FormationChange,5-4-1
+1729520,Nottingham Forest,174,1,0,0,FormationSet,4-2-3-1
+1729521,Sheff Utd,163,2,45,0,FormationChange,19
+1729521,Sheff Utd,163,2,85,47,FormationChange,4-3-3
+1729521,Luton,95,1,0,0,FormationSet,3-4-2-1
+1729514,Wolves,161,1,51,35,FormationChange,3-4-2-1
+1729514,Brentford,189,2,45,4,FormationChange,4-3-3
+1729514,Brentford,189,2,66,50,FormationChange,4-3-3
+1729514,Brentford,189,2,85,10,FormationChange,4-4-2
+1729514,Brentford,189,1,0,0,FormationSet,4-3-3
+1729517,Chelsea,15,2,57,14,FormationChange,4-2-3-1
+1729517,Crystal Palace,162,2,89,39,FormationChange,4-3-3
+1729517,Chelsea,15,2,91,52,FormationChange,4-2-3-1
+1729517,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1729518,Man City,167,1,42,21,FormationChange,4-2-3-1
+1729518,Everton,31,2,64,18,FormationChange,5-4-1
+1729518,Everton,31,2,79,33,FormationChange,5-4-1
+1729518,Everton,31,1,0,0,FormationSet,4-2-3-1
+1729513,Arsenal,13,2,63,53,FormationChange,19
+1729513,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729515,Tottenham,30,2,64,23,FormationChange,4-2-3-1
+1729515,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729522,Burnley,184,2,58,18,FormationChange,4-4-1-1
+1729522,Aston Villa,24,2,92,33,FormationChange,4-4-1-1
+1729522,Aston Villa,24,1,0,0,FormationSet,4-4-1-1
+1729523,Crystal Palace,162,1,0,0,FormationSet,4-3-3
+1729526,Luton,95,2,45,0,FormationChange,3-4-2-1
+1729526,Luton,95,2,61,57,FormationChange,3-4-2-1
+1729526,Chelsea,15,2,61,58,FormationChange,4-2-3-1
+1729526,Chelsea,15,2,80,30,FormationChange,4-2-3-1
+1729526,Luton,95,1,0,0,FormationSet,3-4-2-1
+1729527,Man City,167,2,67,18,FormationChange,4-2-3-1
+1729527,Man City,167,1,0,0,FormationSet,4-2-3-1
+1729528,Nottingham Forest,174,2,86,40,FormationChange,3-4-3
+1729528,Man Utd,32,2,89,15,FormationChange,4-2-3-1
+1729528,Nottingham Forest,174,1,0,0,FormationSet,4-2-3-1
+1729531,Everton,31,2,62,52,FormationChange,4-3-3
+1729531,Wolves,161,1,0,0,FormationSet,3-4-2-1
+1729524,Arsenal,13,2,66,41,FormationChange,3-5-2
+1729524,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1729529,Tottenham,30,2,57,47,FormationChange,4-2-3-1
+1729529,Bournemouth,183,2,81,23,FormationChange,4-2-3-1
+1729529,Tottenham,30,2,83,21,FormationChange,5-4-1
+1729529,Tottenham,30,2,93,34,FormationChange,5-3-2
+1729529,Tottenham,30,1,0,0,FormationSet,4-3-3
+1729525,Newcastle,23,2,53,12,FormationChange,4-3-3
+1729525,Liverpool,26,2,64,2,FormationChange,4-3-3
+1729525,Newcastle,23,2,81,50,FormationChange,5-4-1
+1729525,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729530,West Ham,29,2,72,31,FormationChange,4-2-3-1
+1729530,Brighton,211,2,73,50,FormationChange,4-3-1-2
+1729530,Brighton,211,1,0,0,FormationSet,4-3-1-2
+1729445,Burnley,184,2,73,58,FormationChange,4-4-2
+1729445,Burnley,184,1,0,0,FormationSet,4-4-2
+1729446,Chelsea,15,2,73,26,FormationChange,4-2-3-1
+1729446,Chelsea,15,2,76,14,FormationChange,4-2-3-1
+1729446,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1729449,Man City,167,1,0,0,FormationSet,4-2-3-1
+1729447,Aston Villa,24,2,63,33,FormationChange,4-4-2
+1729447,Aston Villa,24,2,73,30,FormationChange,4-4-2
+1729447,Aston Villa,24,1,0,0,FormationSet,4-4-2
+1729448,Man Utd,32,2,62,27,FormationChange,4-2-3-1
+1729448,Man Utd,32,2,87,26,FormationChange,4-2-3-1
+1729448,Tottenham,30,2,88,49,FormationChange,3-4-3
+1729448,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729533,Crystal Palace,162,2,67,21,FormationChange,3-4-3
+1729533,Crystal Palace,162,2,86,31,FormationChange,3-4-3
+1729533,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729534,Nottingham Forest,174,2,61,26,FormationChange,4-2-3-1
+1729534,Brentford,189,2,73,35,FormationChange,3-5-2
+1729534,Nottingham Forest,174,2,85,9,FormationChange,4-2-3-1
+1729534,Brentford,189,1,0,0,FormationSet,3-5-2
+1729532,Bournemouth,183,2,54,47,FormationChange,4-2-3-1
+1729532,Liverpool,26,2,63,11,FormationChange,4-3-3
+1729532,Bournemouth,183,2,68,24,FormationChange,4-2-3-1
+1729532,Liverpool,26,2,82,23,FormationChange,4-3-3
+1729532,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729450,West Ham,29,2,69,8,FormationChange,4-1-4-1
+1729450,West Ham,29,1,0,0,FormationSet,4-4-1-1
+1729444,Brighton,211,2,91,19,FormationChange,4-3-3
+1729444,Wolves,161,1,0,0,FormationSet,3-4-2-1
+1729451,Newcastle,23,1,42,18,FormationChange,4-3-3
+1729451,Newcastle,23,2,74,52,FormationChange,5-4-1
+1729451,Newcastle,23,2,98,43,FormationChange,5-4-1
+1729451,Aston Villa,24,1,0,0,FormationSet,4-4-2
+1729458,Sheff Utd,163,2,45,0,FormationChange,5-3-2
+1729458,Crystal Palace,162,2,69,14,FormationChange,4-3-3
+1729458,Crystal Palace,162,2,77,28,FormationChange,4-3-3
+1729458,Sheff Utd,163,2,81,12,FormationChange,5-3-2
+1729458,Crystal Palace,162,1,0,0,FormationSet,4-3-3
+1729452,Everton,31,1,0,0,FormationSet,4-4-1-1
+1729453,Luton,95,1,0,0,FormationSet,3-4-2-1
+1729454,Arsenal,13,2,92,7,FormationChange,4-3-3
+1729454,Nottingham Forest,174,1,0,0,FormationSet,4-2-3-1
+1729459,Chelsea,15,2,45,0,FormationChange,4-2-3-1
+1729459,Chelsea,15,2,65,10,FormationChange,4-2-3-1
+1729459,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729460,Burnley,184,2,58,30,FormationChange,5-4-1
+1729460,Man City,167,2,70,46,FormationChange,4-2-3-1
+1729460,Man City,167,2,76,2,FormationChange,4-2-3-1
+1729460,Burnley,184,2,86,0,FormationChange,5-4-1
+1729460,Man City,167,2,86,49,FormationChange,4-2-3-1
+1729460,Man City,167,1,0,0,FormationSet,4-2-3-1
+1729455,Tottenham,30,2,87,13,FormationChange,4-2-3-1
+1729455,Tottenham,30,2,91,14,FormationChange,4-2-3-1
+1729455,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729456,West Ham,29,2,68,0,FormationChange,4-2-3-1
+1729456,Bournemouth,183,2,91,0,FormationChange,4-2-3-1
+1729456,West Ham,29,1,0,0,FormationSet,9
+1729457,Wolves,161,2,63,4,FormationChange,3-4-2-1
+1729457,Wolves,161,2,82,5,FormationChange,4-2-3-1
+1729457,Wolves,161,1,0,0,FormationSet,3-4-2-1
+1729464,Crystal Palace,162,1,27,29,FormationChange,4-3-3
+1729464,Crystal Palace,162,2,45,0,FormationChange,4-3-3
+1729464,Brighton,211,2,87,42,FormationChange,4-2-3-1
+1729464,Brighton,211,1,0,0,FormationSet,3-4-2-1
+1729465,Fulham,170,2,84,24,FormationChange,4-2-3-1
+1729465,Burnley,184,1,0,0,FormationSet,4-4-2
+1729467,Everton,31,2,74,45,FormationChange,4-4-1-1
+1729467,Everton,31,2,79,58,FormationChange,4-4-2
+1729467,Tottenham,30,2,85,32,FormationChange,4-3-3
+1729467,Tottenham,30,2,88,57,FormationChange,5-4-1
+1729467,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729469,Luton,95,2,78,29,FormationChange,3-4-2-1
+1729469,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729470,Sheff Utd,163,2,45,0,FormationChange,5-4-1
+1729470,Aston Villa,24,2,45,1,FormationChange,4-2-3-1
+1729470,Sheff Utd,163,2,50,0,FormationChange,5-3-2
+1729470,Aston Villa,24,2,70,50,FormationChange,4-2-3-1
+1729470,Sheff Utd,163,1,0,0,FormationSet,5-4-1
+1729462,Liverpool,26,2,57,26,FormationChange,4-3-3
+1729462,Liverpool,26,2,84,33,FormationChange,4-3-3
+1729462,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729461,Bournemouth,183,2,55,26,FormationChange,4-2-3-1
+1729461,Bournemouth,183,2,83,16,FormationChange,4-2-3-1
+1729461,Nottingham Forest,174,1,0,0,FormationSet,4-2-3-1
+1729466,Chelsea,15,2,80,49,FormationChange,4-2-3-1
+1729466,Chelsea,15,2,81,46,FormationChange,4-2-3-1
+1729466,Wolves,161,1,0,0,FormationSet,3-4-2-1
+1729468,West Ham,29,2,71,48,FormationChange,4-2-3-1
+1729468,Man Utd,32,2,87,4,FormationChange,4-2-3-1
+1729468,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729463,Brentford,189,2,78,58,FormationChange,3-5-2
+1729463,Man City,167,2,85,42,FormationChange,4-1-4-1
+1729463,Man City,167,1,0,0,FormationSet,4-1-4-1
+1729473,Fulham,170,2,62,59,FormationChange,4-2-3-1
+1729473,Bournemouth,183,2,68,51,FormationChange,4-2-3-1
+1729473,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1729474,Liverpool,26,2,45,0,FormationChange,4-3-3
+1729474,Burnley,184,2,80,8,FormationChange,5-4-1
+1729474,Burnley,184,1,0,0,FormationSet,4-4-2
+1729475,Sheff Utd,163,1,0,0,FormationSet,5-4-1
+1729476,Man City,167,1,22,44,FormationChange,4-1-4-1
+1729476,Everton,31,2,55,26,FormationChange,4-2-3-1
+1729476,Man City,167,2,56,53,FormationChange,4-1-4-1
+1729476,Man City,167,2,76,47,FormationChange,4-1-4-1
+1729476,Everton,31,2,88,2,FormationChange,4-2-3-1
+1729476,Everton,31,1,0,0,FormationSet,4-2-3-1
+1729477,Newcastle,23,2,59,15,FormationChange,4-3-3
+1729477,Nottingham Forest,174,2,72,59,FormationChange,4-2-3-1
+1729477,Newcastle,23,2,81,1,FormationChange,5-4-1
+1729477,Nottingham Forest,174,1,0,0,FormationSet,4-2-3-1
+1729478,Brighton,211,2,56,31,FormationChange,4-2-3-1
+1729478,Tottenham,30,2,62,9,FormationChange,4-2-3-1
+1729478,Tottenham,30,2,79,31,FormationChange,4-2-3-1
+1729478,Brighton,211,2,82,32,FormationChange,4-2-3-1
+1729478,Brighton,211,2,91,1,FormationChange,4-2-3-1
+1729478,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729480,Wolves,161,2,46,49,FormationChange,3-4-2-1
+1729480,Brentford,189,2,84,20,FormationChange,3-5-2
+1729480,Wolves,161,1,0,0,FormationSet,3-4-2-1
+1729471,Aston Villa,24,2,64,28,FormationChange,4-2-3-1
+1729471,Aston Villa,24,2,72,45,FormationChange,4-2-3-1
+1729471,Aston Villa,24,1,0,0,FormationSet,4-2-3-1
+1729479,West Ham,29,2,45,0,FormationChange,4-4-1-1
+1729479,West Ham,29,2,76,59,FormationChange,5
+1729479,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729472,Chelsea,15,2,45,1,FormationChange,4-2-3-1
+1729472,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1729481,Brentford,189,2,62,45,FormationChange,3-5-2
+1729481,Brentford,189,2,84,56,FormationChange,3-5-2
+1729481,Brentford,189,1,0,0,FormationSet,3-5-2
+1729482,Burnley,184,2,45,1,FormationChange,4-4-2
+1729482,Burnley,184,2,62,26,FormationChange,4-4-2
+1729482,Burnley,184,1,0,0,FormationSet,4-4-2
+1729484,Aston Villa,24,1,0,0,FormationSet,4-2-3-1
+1729486,Chelsea,15,2,63,43,FormationChange,4-2-3-1
+1729486,Chelsea,15,2,71,2,FormationChange,5-3-2
+1729486,Chelsea,15,2,81,33,FormationChange,5-3-2
+1729486,Man City,167,1,0,0,FormationSet,4-1-4-1
+1729310,Newcastle,23,2,70,45,FormationChange,4-3-3
+1729310,Bournemouth,183,2,92,49,FormationChange,4-4-2
+1729310,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729313,Nottingham Forest,174,2,66,22,FormationChange,4-2-3-1
+1729313,West Ham,29,2,75,14,FormationChange,4-2-3-1
+1729313,West Ham,29,2,88,38,FormationChange,3-4-3
+1729313,West Ham,29,2,92,19,FormationChange,3-4-3
+1729313,Nottingham Forest,174,2,93,19,FormationChange,4-2-3-1
+1729313,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729319,Tottenham,30,2,70,53,FormationChange,4-2-3-1
+1729319,Tottenham,30,2,85,1,FormationChange,3-4-3
+1729319,Wolves,161,2,91,32,FormationChange,5-4-1
+1729319,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729485,Luton,95,1,0,0,FormationSet,3-4-2-1
+1729316,Sheff Utd,163,1,12,5,FormationChange,3-5-1-1
+1729316,Sheff Utd,163,1,30,2,FormationChange,3-5-1-1
+1729316,Brighton,211,2,45,0,FormationChange,4-2-3-1
+1729316,Sheff Utd,163,2,62,24,FormationChange,3-5-1-1
+1729316,Sheff Utd,163,2,78,56,FormationChange,3-5-1-1
+1729316,Brighton,211,2,80,49,FormationChange,4-2-3-1
+1729316,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729483,Crystal Palace,162,2,71,28,FormationChange,3-4-2-1
+1729483,Everton,31,1,0,0,FormationSet,4-4-1-1
+1729507,Man City,167,2,88,36,FormationChange,4-3-3
+1729507,Man City,167,1,0,0,FormationSet,4-2-3-1
+1729340,Liverpool,26,2,67,9,FormationChange,4-3-3
+1729340,Liverpool,26,2,88,10,FormationChange,4-3-3
+1729340,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729325,Newcastle,23,2,63,30,FormationChange,4-3-3
+1729325,Newcastle,23,2,72,59,FormationChange,4-3-3
+1729325,Newcastle,23,2,73,0,FormationChange,4-3-3
+1729325,Arsenal,13,2,75,48,FormationChange,4-3-3
+1729325,Arsenal,13,2,88,21,FormationChange,4-3-3
+1729325,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729328,Nottingham Forest,174,2,45,0,FormationChange,4-2-3-1
+1729328,Aston Villa,24,2,91,27,FormationChange,4-4-2
+1729328,Aston Villa,24,1,0,0,FormationSet,4-2-3-1
+1729322,Man City,167,2,62,39,FormationChange,24
+1729322,Bournemouth,183,2,68,20,FormationChange,4-2-3-1
+1729322,Bournemouth,183,2,79,12,FormationChange,4-2-3-1
+1729322,Bournemouth,183,2,87,47,FormationChange,4-4-2
+1729322,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729331,Brighton,211,2,74,50,FormationChange,4-2-3-1
+1729331,Brighton,211,2,80,26,FormationChange,4-2-3-1
+1729331,Everton,31,2,88,53,FormationChange,4-4-1-1
+1729331,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729337,Burnley,184,1,36,45,FormationChange,4-4-2
+1729337,Burnley,184,2,90,34,FormationChange,4-4-2
+1729337,Crystal Palace,162,1,0,0,FormationSet,3-4-2-1
+1729342,Man Utd,32,2,52,27,FormationChange,4-2-3-1
+1729342,Fulham,170,2,67,30,FormationChange,4-2-3-1
+1729342,Man Utd,32,2,79,54,FormationChange,4-2-3-1
+1729342,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729347,Wolves,161,2,76,47,FormationChange,4-3-3
+1729347,Sheff Utd,163,2,81,45,FormationChange,3-5-2
+1729347,Wolves,161,2,86,32,FormationChange,4-2-3-1
+1729347,Sheff Utd,163,1,0,0,FormationSet,3-5-2
+1729344,Brentford,189,2,73,4,FormationChange,3-5-2
+1729344,West Ham,29,2,93,40,FormationChange,4-2-3-1
+1729344,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729350,Chelsea,15,2,78,17,FormationChange,4-2-3-1
+1729350,Brentford,189,1,0,0,FormationSet,3-5-2
+1729356,West Ham,29,2,65,34,FormationChange,4-2-3-1
+1729356,Everton,31,2,80,0,FormationChange,4-4-1-1
+1729356,Everton,31,2,93,7,FormationChange,4-4-2
+1729356,West Ham,29,2,96,38,FormationChange,5-3-2
+1729356,Everton,31,1,0,0,FormationSet,4-4-1-1
+1729359,Brighton,211,2,58,37,FormationChange,3-4-2-1
+1729359,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1729362,Luton,95,1,5,4,FormationChange,3-4-2-1
+1729362,Luton,95,2,52,55,FormationChange,3-4-2-1
+1729362,Aston Villa,24,2,78,43,FormationChange,4-2-3-1
+1729362,Luton,95,1,0,0,FormationSet,3-4-2-1
+1729368,Newcastle,23,2,52,59,FormationChange,4-3-3
+1729368,Newcastle,23,2,69,49,FormationChange,4-3-3
+1729368,Newcastle,23,2,92,34,FormationChange,4-3-3
+1729368,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729371,Liverpool,26,2,60,8,FormationChange,4-3-3
+1729371,Nottingham Forest,174,2,64,36,FormationChange,4-2-3-1
+1729371,Liverpool,26,2,83,23,FormationChange,4-3-3
+1729371,Nottingham Forest,174,1,0,0,FormationSet,4-2-3-1
+1729377,Tottenham,30,2,62,42,FormationChange,4-3-3
+1729377,Crystal Palace,162,2,70,21,FormationChange,3-4-2-1
+1729377,Tottenham,30,2,81,59,FormationChange,4-3-3
+1729377,Tottenham,30,2,90,14,FormationChange,4-3-3
+1729377,Crystal Palace,162,1,0,0,FormationSet,3-4-2-1
+1729353,Burnley,184,2,89,11,FormationChange,4-4-2
+1729353,Burnley,184,1,0,0,FormationSet,4-4-2
+1729365,Man City,167,2,58,46,FormationChange,24
+1729365,Man Utd,32,2,68,46,FormationChange,22
+1729365,Man Utd,32,2,74,20,FormationChange,22
+1729365,Man City,167,1,0,0,FormationSet,24
+1729374,Sheff Utd,163,1,16,8,FormationChange,5-4-1
+1729374,Sheff Utd,163,2,45,3,FormationChange,5-4-1
+1729374,Sheff Utd,163,2,63,36,FormationChange,5-4-1
+1729374,Arsenal,13,2,73,9,FormationChange,4-3-3
+1729374,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729383,Brentford,189,1,33,56,FormationChange,3-5-2
+1729383,Arsenal,13,2,69,19,FormationChange,4-3-3
+1729383,Brentford,189,2,89,52,FormationChange,3-5-2
+1729383,Arsenal,13,2,94,51,FormationChange,4-3-3
+1729383,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729380,Bournemouth,183,2,73,49,FormationChange,4-4-2
+1729380,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729395,Luton,95,2,61,49,FormationChange,3-4-2-1
+1729395,Crystal Palace,162,1,0,0,FormationSet,3-4-3
+1729401,Man Utd,32,2,88,19,FormationChange,22
+1729401,Man Utd,32,1,0,0,FormationSet,22
+1729406,Wolves,161,1,10,54,FormationChange,4-2-3-1
+1729406,Wolves,161,1,45,55,FormationChange,3-4-3
+1729406,Fulham,170,2,60,54,FormationChange,4-2-3-1
+1729406,Fulham,170,2,79,3,FormationChange,18
+1729406,Wolves,161,2,79,5,FormationChange,3-4-3
+1729406,Wolves,161,1,0,0,FormationSet,4-2-3-1
+1729386,Aston Villa,24,2,57,28,FormationChange,4-2-3-1
+1729386,Aston Villa,24,2,64,45,FormationChange,4-4-1-1
+1729386,Aston Villa,24,2,69,25,FormationChange,4-4-1-1
+1729386,Tottenham,30,2,87,15,FormationChange,4-2-3-1
+1729386,Aston Villa,24,1,0,0,FormationSet,5-3-2
+1729389,Nottingham Forest,174,2,71,49,FormationChange,4-4-2
+1729389,Nottingham Forest,174,2,86,50,FormationChange,4-4-2
+1729389,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729398,Liverpool,26,2,60,43,FormationChange,4-3-3
+1729398,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729404,Burnley,184,2,67,27,FormationChange,5-4-1
+1729404,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729392,Newcastle,23,1,35,27,FormationChange,4-3-3
+1729392,Newcastle,23,2,68,57,FormationChange,4-3-3
+1729392,Chelsea,15,2,70,7,FormationChange,4-2-3-1
+1729392,Newcastle,23,1,0,0,FormationSet,4-3-3
+1803627,Bournemouth,183,2,45,3,FormationChange,4-2-3-1
+1803627,Bournemouth,183,2,70,49,FormationChange,4-2-3-1
+1803627,Bournemouth,183,2,95,28,FormationChange,4-2-3-1
+1803627,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729415,Burnley,184,2,68,50,FormationChange,4-4-2
+1729415,Brentford,189,1,0,0,FormationSet,3-5-2
+1729423,Tottenham,30,2,65,38,FormationChange,4-2-3-1
+1729423,Tottenham,30,2,79,27,FormationChange,4-4-2
+1729423,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729425,Luton,95,2,45,1,FormationChange,3-4-2-1
+1729425,Nottingham Forest,174,2,74,53,FormationChange,5-4-1
+1729425,Nottingham Forest,174,1,0,0,FormationSet,4-2-3-1
+1729432,Aston Villa,24,2,45,0,FormationChange,4-4-2
+1729432,West Ham,29,2,65,36,FormationChange,4-2-3-1
+1729432,West Ham,29,2,83,32,FormationChange,4-2-3-1
+1729432,Aston Villa,24,1,0,0,FormationSet,4-4-2
+1729440,Wolves,161,2,70,22,FormationChange,3-4-2-1
+1729440,Aston Villa,24,2,87,6,FormationChange,5
+1729440,Aston Villa,24,2,96,14,FormationChange,5-4-1
+1729440,Wolves,161,1,0,0,FormationSet,3-4-2-1
+1729438,Everton,31,1,0,0,FormationSet,4-4-1-1
+1729442,Man Utd,32,2,45,0,FormationChange,4-2-3-1
+1729442,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729443,Burnley,184,1,44,54,FormationChange,4-4-2
+1729443,Burnley,184,2,45,26,FormationChange,4-4-2
+1729443,Chelsea,15,2,61,32,FormationChange,4-2-3-1
+1729443,Chelsea,15,2,72,30,FormationChange,4-2-3-1
+1729443,Burnley,184,1,0,0,FormationSet,4-4-2
+1729318,Newcastle,23,1,16,52,FormationChange,4-3-3
+1729318,Newcastle,23,2,56,40,FormationChange,4-3-3
+1729318,Newcastle,23,2,66,32,FormationChange,4-3-3
+1729318,West Ham,29,2,93,6,FormationChange,4-2-3-1
+1729318,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729321,Nottingham Forest,174,2,45,0,FormationChange,4-2-3-1
+1729321,Nottingham Forest,174,2,59,23,FormationChange,4-2-3-1
+1729321,Nottingham Forest,174,1,0,0,FormationSet,4-2-3-1
+1729324,Sheff Utd,163,1,0,0,FormationSet,3-5-2
+1729327,Tottenham,30,2,67,42,FormationChange,4-3-3
+1729327,Tottenham,30,2,84,5,FormationChange,4-4-2
+1729327,Tottenham,30,2,87,34,FormationChange,4-3-3
+1729327,Luton,95,1,0,0,FormationSet,4-3-3
+1729312,Liverpool,26,2,82,10,FormationChange,4-3-3
+1729312,Brighton,211,2,82,37,FormationChange,4-2-3-1
+1729312,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729315,Man City,167,1,26,5,FormationChange,4-1-4-1
+1729315,Man City,167,2,60,53,FormationChange,4-1-4-1
+1729315,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729330,Bournemouth,183,2,51,18,FormationChange,4-2-3-1
+1729330,Crystal Palace,162,2,69,29,FormationChange,3-4-3
+1729330,Bournemouth,183,1,0,0,FormationSet,4-3-3
+1729339,Wolves,161,2,69,36,FormationChange,3-4-3
+1729339,Burnley,184,2,72,22,FormationChange,4-4-2
+1729339,Burnley,184,1,0,0,FormationSet,4-4-2
+1729349,Everton,31,2,81,9,FormationChange,4-4-1-1
+1729349,Everton,31,1,0,0,FormationSet,4-4-1-1
+1729341,Nottingham Forest,174,1,0,0,FormationSet,4-2-3-1
+1729343,Tottenham,30,2,81,56,FormationChange,4-2-3-1
+1729343,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729333,Luton,95,2,53,1,FormationChange,3-4-2-1
+1729333,Luton,95,2,74,34,FormationChange,4-3-3
+1729333,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729336,Brighton,211,2,85,19,FormationChange,4-2-3-1
+1729336,Brentford,189,1,0,0,FormationSet,3-5-2
+1729355,Aston Villa,24,2,63,11,FormationChange,4-2-3-1
+1729355,Aston Villa,24,2,70,51,FormationChange,4-2-3-1
+1729355,Aston Villa,24,1,0,0,FormationSet,4-2-3-1
+1729346,Man Utd,32,2,45,0,FormationChange,4-2-3-1
+1729346,Man Utd,32,2,65,18,FormationChange,4-2-3-1
+1729346,Chelsea,15,2,88,19,FormationChange,4-2-3-1
+1729346,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729352,Liverpool,26,2,59,51,FormationChange,4-3-3
+1729352,Liverpool,26,2,72,12,FormationChange,4-2-2-2
+1729352,Sheff Utd,163,2,86,47,FormationChange,5
+1729352,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729358,Brentford,189,2,80,56,FormationChange,3-5-2
+1729358,Aston Villa,24,1,0,0,FormationSet,4-4-1-1
+1729361,Brighton,211,2,63,33,FormationChange,4-2-3-1
+1729361,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729364,Crystal Palace,162,2,74,11,FormationChange,3-4-3
+1729364,Man City,167,2,92,9,FormationChange,24
+1729364,Man City,167,1,0,0,FormationSet,24
+1729367,Burnley,184,2,68,8,FormationChange,4-4-1-1
+1729367,Burnley,184,2,83,26,FormationChange,9
+1729367,Everton,31,1,0,0,FormationSet,4-4-1-1
+1729370,Newcastle,23,2,64,26,FormationChange,4-3-3
+1729370,Fulham,170,2,85,6,FormationChange,4-2-3-1
+1729370,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1729373,Bournemouth,183,2,68,9,FormationChange,4-2-3-1
+1729373,Bournemouth,183,2,86,14,FormationChange,4-2-3-1
+1729373,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729385,West Ham,29,2,45,1,FormationChange,4-2-3-1
+1729385,Wolves,161,2,54,55,FormationChange,3-4-2-1
+1729385,Wolves,161,1,0,0,FormationSet,3-4-2-1
+1729376,Man Utd,32,2,65,34,FormationChange,4-2-3-1
+1729376,Man Utd,32,2,79,2,FormationChange,4-2-3-1
+1729376,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729379,Sheff Utd,163,2,76,1,FormationChange,3-5-2
+1729379,Chelsea,15,2,81,42,FormationChange,4-2-3-1
+1729379,Sheff Utd,163,2,86,5,FormationChange,4-2-3-1
+1729379,Sheff Utd,163,2,90,52,FormationChange,4-2-3-1
+1729379,Chelsea,15,2,92,24,FormationChange,4-2-3-1
+1729379,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1729382,Tottenham,30,2,75,48,FormationChange,4-2-3-1
+1729382,Nottingham Forest,174,2,86,18,FormationChange,4-2-3-1
+1729382,Tottenham,30,1,0,0,FormationSet,4-2-3-1
+1729388,Bournemouth,183,1,38,50,FormationChange,4-2-3-1
+1729388,Bournemouth,183,2,75,25,FormationChange,4-2-3-1
+1729388,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729394,Sheff Utd,163,2,57,7,FormationChange,3-5-2
+1729394,Brentford,189,2,78,19,FormationChange,4-3-3
+1729394,Brentford,189,2,90,18,FormationChange,3-5-2
+1729394,Brentford,189,1,0,0,FormationSet,4-3-3
+1729397,Burnley,184,2,66,58,FormationChange,4-4-2
+1729397,Brighton,211,2,76,35,FormationChange,4-2-3-1
+1729397,Burnley,184,1,0,0,FormationSet,4-4-2
+1729407,Man City,167,2,80,22,FormationChange,4-2-3-1
+1729407,Luton,95,2,88,7,FormationChange,3-4-2-1
+1729407,Luton,95,1,0,0,FormationSet,3-4-2-1
+1729410,Tottenham,30,2,57,12,FormationChange,4-2-3-1
+1729410,Tottenham,30,2,80,34,FormationChange,4-2-3-1
+1729410,Newcastle,23,2,88,13,FormationChange,5-4-1
+1729410,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729413,Wolves,161,2,58,29,FormationChange,18
+1729413,Nottingham Forest,174,2,65,20,FormationChange,4-2-3-1
+1729413,Wolves,161,2,87,11,FormationChange,18
+1729413,Nottingham Forest,174,1,0,0,FormationSet,4-2-3-1
+1729391,Arsenal,13,2,78,24,FormationChange,4-3-3
+1729391,Arsenal,13,2,87,21,FormationChange,3-5-2
+1729391,Aston Villa,24,1,0,0,FormationSet,4-2-3-1
+1729403,Liverpool,26,2,45,0,FormationChange,4-3-3
+1729403,Liverpool,26,2,65,57,FormationChange,4-3-3
+1729403,Liverpool,26,2,81,55,FormationChange,4-3-3
+1729403,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729416,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1729400,Everton,31,2,45,1,FormationChange,4-4-1-1
+1729400,Chelsea,15,2,71,43,FormationChange,4-2-3-1
+1729400,Chelsea,15,2,79,37,FormationChange,4-2-3-1
+1729400,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1729433,Luton,95,2,45,0,FormationChange,4-3-3
+1729433,Luton,95,2,70,35,FormationChange,4-3-3
+1729433,Brentford,189,2,71,0,FormationChange,4-3-3
+1729433,Brentford,189,2,81,59,FormationChange,4-3-3
+1729433,Brentford,189,1,0,0,FormationSet,4-3-3
+1729439,Burnley,184,2,58,57,FormationChange,5
+1729439,Sheff Utd,163,2,67,32,FormationChange,4-2-3-1
+1729439,Sheff Utd,163,2,77,47,FormationChange,4-2-3-1
+1729439,Burnley,184,2,84,15,FormationChange,4-4-2
+1729439,Burnley,184,1,0,0,FormationSet,4-4-2
+1729311,Wolves,161,2,50,41,FormationChange,5-3-2
+1729311,Arsenal,13,2,79,59,FormationChange,4-3-3
+1729311,Wolves,161,1,0,0,FormationSet,4-4-2
+1729419,Bournemouth,183,2,63,18,FormationChange,4-2-3-1
+1729419,Bournemouth,183,2,81,38,FormationChange,4-4-2
+1729419,Aston Villa,24,2,86,38,FormationChange,3-4-2-1
+1729419,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1729424,West Ham,29,2,45,0,FormationChange,3-4-2-1
+1729424,Crystal Palace,162,2,80,55,FormationChange,3-4-2-1
+1729424,Crystal Palace,162,1,0,0,FormationSet,3-4-2-1
+1729427,Everton,31,2,66,30,FormationChange,4-1-4-1
+1729427,Nottingham Forest,174,2,79,30,FormationChange,4-2-3-1
+1729427,Nottingham Forest,174,1,0,0,FormationSet,4-2-3-1
+1729430,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1729409,Chelsea,15,2,66,12,FormationChange,3-4-3
+1729409,Chelsea,15,2,78,2,FormationChange,5-4-1
+1729409,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729418,Newcastle,23,2,64,18,FormationChange,3-4-2-1
+1729418,Crystal Palace,162,1,0,0,FormationSet,3-4-2-1
+1729421,Everton,31,1,0,0,FormationSet,4-4-1-1
+1729429,Man Utd,32,2,63,56,FormationChange,4-2-3-1
+1729429,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729435,Wolves,161,2,45,0,FormationChange,5-3-2
+1729435,Wolves,161,2,54,42,FormationChange,5-4-1
+1729435,Bournemouth,183,2,80,58,FormationChange,4-2-3-1
+1729435,Wolves,161,2,92,17,FormationChange,5-4-1
+1729435,Wolves,161,2,93,3,FormationChange,4-4-2
+1729435,Wolves,161,1,0,0,FormationSet,4-1-4-1
+1729412,Brighton,211,2,55,56,FormationChange,4-2-3-1
+1729412,Man City,167,2,78,19,FormationChange,4-1-4-1
+1729412,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729317,Aston Villa,24,1,26,27,FormationChange,4-4-1-1
+1729317,Aston Villa,24,2,74,37,FormationChange,3-5-2
+1729317,Aston Villa,24,1,0,0,FormationSet,4-4-1-1
+1729320,Brentford,189,2,76,53,FormationChange,4-3-3
+1729320,Everton,31,1,0,0,FormationSet,4-4-1-1
+1729323,Crystal Palace,162,2,85,10,FormationChange,4-2-3-1
+1729323,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1729326,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1729329,Newcastle,23,2,65,49,FormationChange,4-4-2
+1729329,Sheff Utd,163,2,66,19,FormationChange,3-5-2
+1729329,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729338,Liverpool,26,2,78,6,FormationChange,4-3-3
+1729338,Liverpool,26,2,90,46,FormationChange,4-3-3
+1729338,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729345,Luton,95,2,65,21,FormationChange,3-4-2-1
+1729345,Luton,95,2,77,11,FormationChange,18
+1729345,Wolves,161,1,0,0,FormationSet,3-5-1-1
+1729314,Bournemouth,183,2,66,48,FormationChange,4-2-3-1
+1729314,Brighton,211,2,73,37,FormationChange,4-2-3-1
+1729314,Brighton,211,2,87,49,FormationChange,4-2-3-1
+1729314,Bournemouth,183,1,0,0,FormationSet,4-4-2
+1729332,Man City,167,2,45,0,FormationChange,4-2-3-1
+1729332,Man City,167,2,61,9,FormationChange,4-2-3-1
+1729332,Nottingham Forest,174,2,73,34,FormationChange,5-4-1
+1729332,Nottingham Forest,174,2,83,53,FormationChange,4-2-3-1
+1729332,Nottingham Forest,174,1,0,0,FormationSet,5-4-1
+1729335,Tottenham,30,2,63,10,FormationChange,4-2-3-1
+1729335,Tottenham,30,2,87,8,FormationChange,4-2-3-1
+1729335,Arsenal,13,2,88,27,FormationChange,5-4-1
+1729335,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729334,Tottenham,30,2,67,13,FormationChange,4-2-3-1
+1729334,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1729369,Everton,31,2,66,52,FormationChange,4-4-1-1
+1729369,Luton,95,2,88,12,FormationChange,3-4-2-1
+1729369,Luton,95,1,0,0,FormationSet,3-4-2-1
+1729348,Bournemouth,183,2,79,8,FormationChange,4-4-2
+1729348,Bournemouth,183,2,88,55,FormationChange,4-4-2
+1729348,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729351,Brentford,189,2,81,57,FormationChange,4-2-2-2
+1729351,Brentford,189,1,0,0,FormationSet,4-3-3
+1729357,Burnley,184,2,61,55,FormationChange,4-2-3-1
+1729357,Newcastle,23,2,68,28,FormationChange,4-4-2
+1729357,Burnley,184,1,0,0,FormationSet,4-2-3-1
+1729372,Wolves,161,2,45,0,FormationChange,3-4-2-1
+1729372,Man City,167,2,68,22,FormationChange,4-2-3-1
+1729372,Wolves,161,2,75,40,FormationChange,3-4-2-1
+1729372,Wolves,161,1,0,0,FormationSet,3-5-2
+1729375,Sheff Utd,163,2,73,28,FormationChange,3-5-2
+1729375,Nottingham Forest,174,2,82,23,FormationChange,5-4-1
+1729375,Sheff Utd,163,1,0,0,FormationSet,3-5-2
+1729354,Aston Villa,24,1,25,10,FormationChange,4-2-3-1
+1729354,Aston Villa,24,2,89,37,FormationChange,4-4-2
+1729354,Brighton,211,2,92,36,FormationChange,4-2-3-1
+1729354,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1729360,West Ham,29,2,75,56,FormationChange,3-4-3
+1729360,Chelsea,15,2,82,3,FormationChange,4-2-3-1
+1729360,Chelsea,15,2,88,56,FormationChange,4-2-3-1
+1729360,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729366,Tottenham,30,2,60,39,FormationChange,4-2-3-1
+1729366,Liverpool,26,1,0,0,FormationSet,4-3-3
+1729363,Man Utd,32,2,82,25,FormationChange,4-2-3-1
+1729363,Crystal Palace,162,1,0,0,FormationSet,3-4-2-1
+1729378,Brentford,189,2,62,29,FormationChange,4-3-3
+1729378,Brentford,189,2,74,0,FormationChange,4-4-2
+1729378,Bournemouth,183,2,80,34,FormationChange,4-2-3-1
+1729378,Brentford,189,2,100,39,FormationChange,4-4-2
+1729378,Brentford,189,1,0,0,FormationSet,4-3-3
+1729384,Sheff Utd,163,2,60,54,FormationChange,3-5-2
+1729384,Sheff Utd,163,2,65,50,FormationChange,3-5-2
+1729384,Everton,31,2,68,38,FormationChange,4-4-1-1
+1729384,Everton,31,1,0,0,FormationSet,4-4-1-1
+1729387,Man City,167,1,21,48,FormationChange,4-2-3-1
+1729387,Fulham,170,2,45,1,FormationChange,4-2-3-1
+1729387,Fulham,170,2,73,25,FormationChange,4-3-3
+1729387,Man City,167,2,74,39,FormationChange,4-2-3-1
+1729387,Man City,167,2,81,48,FormationChange,4-2-3-1
+1729387,Man City,167,1,0,0,FormationSet,4-2-3-1
+1729393,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729396,Chelsea,15,2,57,24,FormationChange,4-2-3-1
+1729396,Nottingham Forest,174,2,71,24,FormationChange,5-4-1
+1729396,Chelsea,15,2,78,27,FormationChange,3-4-2-1
+1729396,Nottingham Forest,174,2,86,1,FormationChange,4-4-2
+1729396,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1729399,Tottenham,30,2,45,0,FormationChange,4-3-3
+1729399,Burnley,184,2,71,33,FormationChange,4-4-2
+1729399,Tottenham,30,2,74,42,FormationChange,4-3-3
+1729399,Burnley,184,2,87,43,FormationChange,4-4-2
+1729399,Tottenham,30,2,87,58,FormationChange,4-3-3
+1729399,Tottenham,30,1,0,0,FormationSet,4-3-3
+1729402,West Ham,29,2,74,53,FormationChange,4-2-3-1
+1729402,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1729405,Wolves,161,2,60,30,FormationChange,3-4-2-1
+1729405,Crystal Palace,162,2,69,10,FormationChange,3-4-2-1
+1729405,Wolves,161,2,78,25,FormationChange,3-4-2-1
+1729405,Crystal Palace,162,2,87,49,FormationChange,5-3-2
+1729405,Wolves,161,2,90,20,FormationChange,3-4-2-1
+1729405,Crystal Palace,162,1,0,0,FormationSet,3-4-2-1
+1729390,Man Utd,32,2,74,40,FormationChange,4-2-3-1
+1729390,Man Utd,32,2,87,18,FormationChange,4-2-3-1
+1729390,Arsenal,13,2,92,7,FormationChange,5-4-1
+1729390,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729381,Aston Villa,24,2,64,2,FormationChange,4-2-3-1
+1729381,Aston Villa,24,1,0,0,FormationSet,4-2-3-1
+1729441,Tottenham,30,2,54,31,FormationChange,4-3-1-2
+1729441,Man City,167,2,68,33,FormationChange,4-2-3-1
+1729441,Tottenham,30,2,84,21,FormationChange,4-2-3-1
+1729441,Tottenham,30,1,0,0,FormationSet,4-3-1-2
+1729422,Brighton,211,2,45,0,FormationChange,4-2-3-1
+1729422,Brighton,211,2,69,20,FormationChange,4-2-3-1
+1729422,Chelsea,15,2,71,12,FormationChange,4-2-3-1
+1729422,Chelsea,15,2,88,25,FormationChange,4-2-3-1
+1729422,Chelsea,15,2,89,37,FormationChange,4-2-3-1
+1729422,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1729436,Newcastle,23,2,62,23,FormationChange,4-3-3
+1729436,Newcastle,23,2,76,25,FormationChange,4-3-3
+1729436,Man Utd,32,2,82,33,FormationChange,5-4-1
+1729436,Man Utd,32,2,89,22,FormationChange,5-3-2
+1729436,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729408,Arsenal,13,2,59,2,FormationChange,4-3-3
+1729408,Arsenal,13,2,68,44,FormationChange,4-3-3
+1729408,Everton,31,2,91,40,FormationChange,4-4-2
+1729408,Arsenal,13,1,0,0,FormationSet,4-3-3
+1729411,Brentford,189,2,73,30,FormationChange,3-4-2-1
+1729411,Newcastle,23,2,80,41,FormationChange,5-4-1
+1729411,Newcastle,23,1,0,0,FormationSet,4-3-3
+1729414,Man Utd,32,2,74,43,FormationChange,4-2-2-2
+1729414,Brighton,211,2,80,44,FormationChange,4-2-3-1
+1729414,Man Utd,32,1,0,0,FormationSet,4-2-2-2
+1729417,Burnley,184,1,0,0,FormationSet,4-4-2
+1729420,Bournemouth,183,2,59,2,FormationChange,4-2-3-1
+1729420,Bournemouth,183,2,69,18,FormationChange,4-2-3-1
+1729420,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1729426,Aston Villa,24,2,68,1,FormationChange,4-4-2
+1729426,Crystal Palace,162,2,75,29,FormationChange,3-4-2-1
+1729426,Crystal Palace,162,2,87,12,FormationChange,3-4-2-1
+1729426,Crystal Palace,162,1,0,0,FormationSet,3-4-2-1
+1729428,Wolves,161,1,28,31,FormationChange,3-5-1-1
+1729428,Wolves,161,2,62,10,FormationChange,3-5-1-1
+1729428,Liverpool,26,2,80,28,FormationChange,4-3-3
+1729428,Wolves,161,2,84,0,FormationChange,3-5-1-1
+1729428,Wolves,161,1,0,0,FormationSet,3-5-1-1
+1729431,Luton,95,1,16,56,FormationChange,3-4-3
+1729431,Luton,95,1,0,0,FormationSet,3-4-3
+1729434,West Ham,29,2,70,23,FormationChange,4-2-3-1
+1729434,West Ham,29,2,80,43,FormationChange,4-2-3-1
+1729434,Man City,167,1,0,0,FormationSet,4-1-4-1
+1729437,Sheff Utd,163,1,4,43,FormationChange,5-3-2
+1729437,Sheff Utd,163,2,69,16,FormationChange,5-3-2
+1729437,Tottenham,30,2,87,50,FormationChange,4-2-3-1
+1729437,Sheff Utd,163,1,0,0,FormationSet,5-3-2
+1640674,Crystal Palace,162,2,85,45,FormationChange,4-2-3-1
+1640674,Arsenal,13,2,92,19,FormationChange,5-3-2
+1640674,Crystal Palace,162,1,0,0,FormationSet,4-2-3-1
+1640676,Aston Villa,24,2,45,0,FormationChange,4-2-3-1
+1640676,Bournemouth,183,1,0,0,FormationSet,3-4-2-1
+1640681,Chelsea,15,2,64,54,FormationChange,3-4-3
+1640681,Everton,31,2,69,22,FormationChange,5-4-1
+1640681,Chelsea,15,2,74,17,FormationChange,3-4-3
+1640681,Everton,31,1,0,0,FormationSet,5-4-1
+1640675,Liverpool,26,2,55,55,FormationChange,4-3-3
+1640675,Liverpool,26,2,58,32,FormationChange,4-3-3
+1640675,Fulham,170,2,74,11,FormationChange,4-2-3-1
+1640675,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640677,Leeds,19,2,84,3,FormationChange,4-2-3-1
+1640677,Wolves,161,1,0,0,FormationSet,4-2-3-1
+1640679,Nottingham Forest,174,2,82,18,FormationChange,4-2-3-1
+1640679,Newcastle,23,2,92,25,FormationChange,5-4-1
+1640679,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640680,Southampton,18,2,45,1,FormationChange,5-4-1
+1640680,Southampton,18,2,74,41,FormationChange,5-3-2
+1640680,Tottenham,30,1,0,0,FormationSet,3-4-2-1
+1640678,Brentford,189,2,58,28,FormationChange,4-3-3
+1640678,Leicester,14,2,72,40,FormationChange,18
+1640678,Brentford,189,2,83,6,FormationChange,5-4-1
+1640678,Leicester,14,1,0,0,FormationSet,3-5-1-1
+1640682,Man Utd,32,2,52,36,FormationChange,4-3-3
+1640682,Brighton,211,2,52,37,FormationChange,4-3-1-2
+1640682,Brighton,211,2,75,5,FormationChange,3-4-2-1
+1640682,Brighton,211,2,80,30,FormationChange,4-2-3-1
+1640682,Man Utd,32,1,0,0,FormationSet,4-3-3
+1640683,West Ham,29,2,45,0,FormationChange,4-2-3-1
+1640683,West Ham,29,2,67,2,FormationChange,4-4-1-1
+1640683,Man City,167,2,77,52,FormationChange,4-3-3
+1640683,West Ham,29,2,91,57,FormationChange,4-4-1-1
+1640683,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1640684,Leicester,14,2,62,46,FormationChange,4-3-3
+1640684,Leicester,14,2,69,20,FormationChange,3
+1640684,Arsenal,13,2,83,56,FormationChange,4-2-3-1
+1640684,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640685,Everton,31,2,63,17,FormationChange,3-4-3
+1640685,Everton,31,2,80,23,FormationChange,4-2-3-1
+1640685,Aston Villa,24,2,94,54,FormationChange,5-4-1
+1640685,Aston Villa,24,1,0,0,FormationSet,3
+1640686,Brentford,189,2,79,32,FormationChange,5-3-2
+1640686,Brentford,189,1,0,0,FormationSet,5-3-2
+1640687,Brighton,211,2,74,37,FormationChange,3-4-2-1
+1640687,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640690,Man City,167,2,64,15,FormationChange,4-3-3
+1640690,Bournemouth,183,2,79,24,FormationChange,3-4-2-1
+1640690,Bournemouth,183,1,0,0,FormationSet,3-4-2-1
+1640692,Leeds,19,1,27,55,FormationChange,4-2-3-1
+1640692,Leeds,19,2,45,0,FormationChange,4-2-3-1
+1640692,Southampton,18,2,69,49,FormationChange,4-2-2-2
+1640692,Leeds,19,2,84,2,FormationChange,4-2-3-1
+1640692,Southampton,18,1,0,0,FormationSet,3-4-2-1
+1640693,Fulham,170,2,85,25,FormationChange,4-2-3-1
+1640693,Fulham,170,2,92,17,FormationChange,4-2-3-1
+1640693,Wolves,161,1,0,0,FormationSet,4-2-3-1
+1640688,Tottenham,30,2,56,39,FormationChange,4-4-2
+1640688,Chelsea,15,2,72,27,FormationChange,3-4-2-1
+1640688,Chelsea,15,1,0,0,FormationSet,3-5-2
+1640691,West Ham,29,2,68,13,FormationChange,4-2-3-1
+1640691,West Ham,29,1,0,0,FormationSet,4-3-3
+1640689,Liverpool,26,2,62,59,FormationChange,4-3-3
+1640689,Liverpool,26,2,78,37,FormationChange,4-3-3
+1640689,Crystal Palace,162,2,78,38,FormationChange,5-4-1
+1640689,Liverpool,26,1,0,0,FormationSet,4-3-3
+1640694,Bournemouth,183,2,45,0,FormationChange,4-2-3-1
+1640694,Arsenal,13,2,74,9,FormationChange,4-2-3-1
+1640694,Arsenal,13,2,87,39,FormationChange,4-2-3-1
+1640694,Bournemouth,183,1,0,0,FormationSet,19
+1640695,Aston Villa,24,2,65,9,FormationChange,4-3-3
+1640695,Crystal Palace,162,2,81,59,FormationChange,4-3-3
+1640695,Crystal Palace,162,2,90,54,FormationChange,5-4-1
+1640695,Aston Villa,24,1,0,0,FormationSet,4-3-3
+1640696,Everton,31,2,57,1,FormationChange,3-4-3
+1640696,Nottingham Forest,174,2,60,6,FormationChange,18
+1640696,Nottingham Forest,174,2,83,11,FormationChange,18
+1640696,Nottingham Forest,174,1,0,0,FormationSet,18
+1640697,Brentford,189,2,59,20,FormationChange,3-4-3
+1640697,Brentford,189,1,0,0,FormationSet,4-3-3
+1640699,Leicester,14,2,64,46,FormationChange,4-2-3-1
+1640699,Southampton,18,2,69,56,FormationChange,4-2-3-1
+1640699,Leicester,14,2,75,29,FormationChange,4-2-3-1
+1640699,Southampton,18,2,87,44,FormationChange,5-4-1
+1640699,Leicester,14,1,0,0,FormationSet,4-1-4-1
+1640702,Wolves,161,2,58,6,FormationChange,3-5-2
+1640702,Tottenham,30,2,85,53,FormationChange,3-5-2
+1640702,Wolves,161,1,0,0,FormationSet,3-5-2
+1640698,Chelsea,15,2,45,0,FormationChange,21
+1640698,Chelsea,15,2,63,22,FormationChange,21
+1640698,Chelsea,15,2,76,59,FormationChange,19
+1640698,Chelsea,15,2,86,20,FormationChange,19
+1640698,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640701,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640703,Brighton,211,2,63,0,FormationChange,4-3-3
+1640703,West Ham,29,2,74,53,FormationChange,4-2-3-1
+1640703,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1640700,Man Utd,32,2,45,0,FormationChange,4-2-3-1
+1640700,Liverpool,26,2,58,37,FormationChange,4-3-3
+1640700,Man Utd,32,2,70,24,FormationChange,4-3-3
+1640700,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640704,Arsenal,13,2,60,24,FormationChange,3-4-2-1
+1640704,Fulham,170,2,68,20,FormationChange,4-2-3-1
+1640704,Fulham,170,2,78,41,FormationChange,5-4-1
+1640704,Fulham,170,2,88,4,FormationChange,4-2-3-1
+1640704,Arsenal,13,2,88,5,FormationChange,4-2-3-1
+1640704,Arsenal,13,2,94,15,FormationChange,5-4-1
+1640704,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640706,Brentford,189,2,68,9,FormationChange,3-4-2-1
+1640706,Brentford,189,1,0,0,FormationSet,4-3-3
+1640707,Brighton,211,2,69,38,FormationChange,4-3-3
+1640707,Leeds,19,2,73,36,FormationChange,4-2-3-1
+1640707,Brighton,211,2,78,30,FormationChange,4-4-1-1
+1640707,Brighton,211,2,87,55,FormationChange,4-3-3
+1640707,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640708,Chelsea,15,1,27,35,FormationChange,4-4-2
+1640708,Chelsea,15,2,45,0,FormationChange,3-5-2
+1640708,Leicester,14,2,54,54,FormationChange,4-4-2
+1640708,Chelsea,15,2,74,46,FormationChange,3-5-2
+1640708,Leicester,14,1,0,0,FormationSet,4-1-4-1
+1640709,Bournemouth,183,2,45,0,FormationChange,5-4-1
+1640709,Liverpool,26,2,69,30,FormationChange,4-3-3
+1640709,Liverpool,26,2,82,23,FormationChange,4-3-3
+1640709,Liverpool,26,1,0,0,FormationSet,4-3-3
+1640710,Man City,167,2,60,51,FormationChange,4-2-3-1
+1640710,Crystal Palace,162,2,73,51,FormationChange,4-4-1-1
+1640710,Man City,167,2,83,41,FormationChange,4-2-3-1
+1640710,Man City,167,1,0,0,FormationSet,4-2-3-1
+1640712,Man Utd,32,2,67,19,FormationChange,4-2-3-1
+1640712,Man Utd,32,2,79,50,FormationChange,4-2-3-1
+1640712,Southampton,18,1,0,0,FormationSet,4-2-3-1
+1640705,West Ham,29,2,65,34,FormationChange,4-3-3
+1640705,Aston Villa,24,2,90,24,FormationChange,4-2-3-1
+1640705,Aston Villa,24,1,0,0,FormationSet,4-3-1-2
+1640711,Nottingham Forest,174,2,74,45,FormationChange,4-2-3-1
+1640711,Tottenham,30,2,82,12,FormationChange,5-4-1
+1640711,Nottingham Forest,174,1,0,0,FormationSet,3-4-2-1
+1640713,Newcastle,23,2,64,40,FormationChange,4-3-3
+1640713,Wolves,161,1,0,0,FormationSet,4-3-3
+1640720,Brentford,189,2,67,47,FormationChange,4-3-3
+1640720,Crystal Palace,162,2,75,29,FormationChange,4-1-4-1
+1640720,Brentford,189,2,78,38,FormationChange,3-4-3
+1640720,Crystal Palace,162,2,79,12,FormationChange,5-4-1
+1640720,Crystal Palace,162,1,0,0,FormationSet,4-1-4-1
+1640716,Brighton,211,1,13,30,FormationChange,22
+1640716,Brighton,211,2,63,10,FormationChange,4-2-3-1
+1640716,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640717,Leeds,19,1,31,37,FormationChange,4-2-3-1
+1640717,Leeds,19,2,63,52,FormationChange,4-2-3-1
+1640717,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640721,Southampton,18,2,59,3,FormationChange,4-2-3-1
+1640721,Chelsea,15,2,66,8,FormationChange,3-4-2-1
+1640721,Southampton,18,2,85,34,FormationChange,5-4-1
+1640721,Chelsea,15,1,0,0,FormationSet,4-2-2-2
+1640714,Aston Villa,24,2,72,49,FormationChange,4-3-3
+1640714,Aston Villa,24,2,76,19,FormationChange,4-3-1-2
+1640714,Arsenal,13,2,80,49,FormationChange,4-2-3-1
+1640714,Aston Villa,24,2,85,57,FormationChange,4-4-2
+1640714,Arsenal,13,2,87,22,FormationChange,3-4-2-1
+1640714,Aston Villa,24,1,0,0,FormationSet,4-3-3
+1640715,Wolves,161,2,59,7,FormationChange,4-3-3
+1640715,Bournemouth,183,2,68,9,FormationChange,4-4-2
+1640715,Bournemouth,183,1,0,0,FormationSet,4-4-2
+1640722,Liverpool,26,2,70,49,FormationChange,4-3-3
+1640722,Newcastle,23,2,83,45,FormationChange,4-3-3
+1640722,Liverpool,26,1,0,0,FormationSet,4-3-3
+1640723,Man City,167,2,54,12,FormationChange,4-2-3-1
+1640723,Man City,167,2,68,8,FormationChange,4-2-3-1
+1640723,Man City,167,2,74,40,FormationChange,4-2-3-1
+1640723,Man City,167,1,0,0,FormationSet,4-2-3-1
+1640719,Tottenham,30,1,0,0,FormationSet,3-4-2-1
+1640718,Man Utd,32,2,58,27,FormationChange,4-2-3-1
+1640718,Man Utd,32,2,67,47,FormationChange,4-2-3-1
+1640718,Leicester,14,2,75,38,FormationChange,4-4-2
+1640718,Leicester,14,1,0,0,FormationSet,4-1-4-1
+1640724,Aston Villa,24,2,64,45,FormationChange,9
+1640724,Man City,167,2,79,41,FormationChange,3-4-3
+1640724,Man City,167,1,0,0,FormationSet,4-3-3
+1640725,Brentford,189,2,66,32,FormationChange,3-5-2
+1640725,Brentford,189,1,0,0,FormationSet,4-3-3
+1640727,Chelsea,15,2,71,10,FormationChange,3-4-3
+1640727,West Ham,29,2,73,22,FormationChange,5-4-1
+1640727,West Ham,29,2,82,40,FormationChange,5-4-1
+1640727,West Ham,29,2,85,50,FormationChange,5-4-1
+1640727,Chelsea,15,1,0,0,FormationSet,19
+1640728,Liverpool,26,2,45,0,FormationChange,4-2-3-1
+1640728,Liverpool,26,2,79,12,FormationChange,4-2-3-1
+1640728,Everton,31,1,0,0,FormationSet,4-3-3
+1640730,Crystal Palace,162,2,62,31,FormationChange,4-3-3
+1640730,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640731,Bournemouth,183,2,45,0,FormationChange,3-4-2-1
+1640731,Nottingham Forest,174,1,0,0,FormationSet,3-4-2-1
+1640732,Tottenham,30,2,77,49,FormationChange,3-4-2-1
+1640732,Fulham,170,2,84,14,FormationChange,4-4-2
+1640732,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640733,Southampton,18,2,55,48,FormationChange,4-2-3-1
+1640733,Southampton,18,2,74,46,FormationChange,4-4-2
+1640733,Wolves,161,1,0,0,FormationSet,4-3-3
+1640726,Leicester,14,2,45,3,FormationChange,5-3-2
+1640726,Leicester,14,2,71,57,FormationChange,5-3-2
+1640726,Leicester,14,1,0,0,FormationSet,4-4-2
+1640729,Man Utd,32,2,57,35,FormationChange,4-2-3-1
+1640729,Man Utd,32,2,66,30,FormationChange,4-2-3-1
+1640729,Arsenal,13,2,73,25,FormationChange,4-2-3-1
+1640729,Arsenal,13,2,74,37,FormationChange,4-1-4-1
+1640729,Man Utd,32,2,79,25,FormationChange,4-2-3-1
+1640729,Arsenal,13,2,79,55,FormationChange,19
+1640729,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640744,Aston Villa,24,2,83,11,FormationChange,9
+1640744,Aston Villa,24,1,0,0,FormationSet,9
+1640751,Nottingham Forest,174,2,71,35,FormationChange,4-4-2
+1640751,Nottingham Forest,174,2,88,9,FormationChange,4-4-2
+1640751,Nottingham Forest,174,1,0,0,FormationSet,18
+1640750,Newcastle,23,2,88,59,FormationChange,4-3-3
+1640750,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640752,Tottenham,30,1,0,0,FormationSet,3-4-2-1
+1640753,Wolves,161,1,35,57,FormationChange,4-4-1-1
+1640753,Wolves,161,2,69,30,FormationChange,4-4-1-1
+1640753,Man City,167,2,71,32,FormationChange,4-4-2
+1640753,Man City,167,2,80,25,FormationChange,4-4-2
+1640753,Wolves,161,2,80,41,FormationChange,4-4-1-1
+1640753,Wolves,161,1,0,0,FormationSet,4-3-3
+1640745,Brentford,189,1,0,0,FormationSet,3-5-2
+1640748,West Ham,29,2,61,4,FormationChange,4-2-3-1
+1640748,Everton,31,2,81,20,FormationChange,4-1-4-1
+1640748,Everton,31,1,0,0,FormationSet,4-3-3
+1640754,Tottenham,30,2,71,11,FormationChange,5-3-2
+1640754,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640755,Brentford,189,2,64,11,FormationChange,4-3-3
+1640755,Bournemouth,183,2,72,0,FormationChange,4-4-2
+1640755,Brentford,189,1,0,0,FormationSet,4-3-3
+1640756,Crystal Palace,162,1,43,18,FormationChange,4-3-3
+1640756,Chelsea,15,2,45,0,FormationChange,4-3-3
+1640756,Chelsea,15,2,55,10,FormationChange,4-2-3-1
+1640756,Crystal Palace,162,1,0,0,FormationSet,4-3-3
+1640757,Fulham,170,1,7,30,FormationChange,4-2-3-1
+1640757,Fulham,170,1,47,40,FormationChange,3-5-1-1
+1640757,Newcastle,23,2,65,7,FormationChange,4-3-3
+1640757,Fulham,170,2,69,19,FormationChange,3-5-1-1
+1640757,Newcastle,23,2,82,33,FormationChange,4-3-3
+1640757,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640760,Liverpool,26,2,58,24,FormationChange,4-3-3
+1640760,Liverpool,26,2,88,50,FormationChange,4-4-2
+1640760,Liverpool,26,1,0,0,FormationSet,4-3-3
+1640762,Southampton,18,1,0,0,FormationSet,4-4-2
+1640763,West Ham,29,2,73,49,FormationChange,4-2-3-1
+1640763,Wolves,161,1,0,0,FormationSet,3-4-2-1
+1640758,Aston Villa,24,1,48,26,FormationChange,4-3-3
+1640758,Leeds,19,2,57,59,FormationChange,5-3-2
+1640758,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640761,Man City,167,1,40,45,FormationChange,4-3-3
+1640761,Man Utd,32,2,69,45,FormationChange,4-2-3-1
+1640761,Man City,167,2,74,54,FormationChange,4-4-2
+1640761,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640759,Nottingham Forest,174,2,68,13,FormationChange,4-1-4-1
+1640759,Leicester,14,1,0,0,FormationSet,4-1-4-1
+1640765,Leicester,14,2,78,30,FormationChange,3-5-2
+1640765,Bournemouth,183,1,0,0,FormationSet,4-4-2
+1640766,Tottenham,30,2,69,58,FormationChange,3-4-2-1
+1640766,Brighton,211,2,81,16,FormationChange,4-3-3
+1640766,Brighton,211,2,88,14,FormationChange,4-3-3
+1640766,Tottenham,30,2,89,19,FormationChange,3-4-2-1
+1640766,Tottenham,30,1,0,0,FormationSet,3-5-2
+1640767,Wolves,161,2,45,1,FormationChange,4-2-3-1
+1640767,Chelsea,15,2,71,36,FormationChange,3-4-2-1
+1640767,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1640770,Southampton,18,2,65,35,FormationChange,9
+1640770,Man City,167,2,70,1,FormationChange,4-2-3-1
+1640770,Southampton,18,2,78,31,FormationChange,4-2-2-2
+1640770,Man City,167,1,0,0,FormationSet,4-2-3-1
+1640771,Brentford,189,2,70,55,FormationChange,4-3-3
+1640771,Newcastle,23,2,77,39,FormationChange,4-3-3
+1640771,Brentford,189,2,84,0,FormationChange,4-2-3-1
+1640771,Newcastle,23,2,84,2,FormationChange,4-3-3
+1640771,Brentford,189,1,0,0,FormationSet,3-5-2
+1640764,Liverpool,26,1,41,19,FormationChange,4-2-3-1
+1640764,Liverpool,26,2,68,36,FormationChange,4-3-3
+1640764,Liverpool,26,2,80,15,FormationChange,4-4-1-1
+1640764,Arsenal,13,2,81,57,FormationChange,5-4-1
+1640764,Liverpool,26,1,0,0,FormationSet,4-2-3-1
+1640768,Crystal Palace,162,2,64,5,FormationChange,4-3-3
+1640768,Leeds,19,2,64,7,FormationChange,4-2-3-1
+1640768,Leeds,19,2,83,14,FormationChange,4-2-2-2
+1640768,Crystal Palace,162,2,85,47,FormationChange,4-3-3
+1640768,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640769,Everton,31,2,66,48,FormationChange,4-3-3
+1640769,Everton,31,2,75,12,FormationChange,4-4-2
+1640769,Man Utd,32,2,82,7,FormationChange,4-2-3-1
+1640769,Man Utd,32,2,92,40,FormationChange,5-4-1
+1640769,Everton,31,1,0,0,FormationSet,4-3-3
+1640773,West Ham,29,2,83,31,FormationChange,4-2-3-1
+1640773,Fulham,170,2,88,19,FormationChange,3-5-2
+1640773,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640772,Aston Villa,24,2,64,49,FormationChange,4-3-3
+1640772,Aston Villa,24,2,76,16,FormationChange,4-3-3
+1640772,Aston Villa,24,2,80,21,FormationChange,4-2-3-1
+1640772,Nottingham Forest,174,1,0,0,FormationSet,4-3-3
+1640775,Brighton,211,2,45,1,FormationChange,4-4-2
+1640775,Brighton,211,2,68,13,FormationChange,18
+1640775,Brentford,189,2,70,35,FormationChange,5-3-2
+1640775,Brentford,189,1,0,0,FormationSet,4-3-3
+1640776,Bournemouth,183,2,79,41,FormationChange,5-4-1
+1640776,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640778,Crystal Palace,162,2,65,3,FormationChange,4-3-3
+1640778,Crystal Palace,162,2,76,53,FormationChange,4-3-3
+1640778,Leicester,14,2,81,20,FormationChange,4-1-4-1
+1640778,Leicester,14,1,0,0,FormationSet,4-1-4-1
+1640782,Tottenham,30,2,51,42,FormationChange,5-3-2
+1640782,Everton,31,2,66,20,FormationChange,5-3-2
+1640782,Everton,31,2,80,25,FormationChange,5-3-2
+1640782,Tottenham,30,1,0,0,FormationSet,3-4-2-1
+1640783,Nottingham Forest,174,2,70,49,FormationChange,4-3-3
+1640783,Nottingham Forest,174,2,84,25,FormationChange,4-2-2-2
+1640783,Nottingham Forest,174,2,88,24,FormationChange,3-4-3
+1640783,Wolves,161,2,91,37,FormationChange,4-1-4-1
+1640783,Wolves,161,1,0,0,FormationSet,4-2-3-1
+1640774,Chelsea,15,1,39,0,FormationChange,3-4-2-1
+1640774,Chelsea,15,2,45,0,FormationChange,3-4-2-1
+1640774,Chelsea,15,2,64,20,FormationChange,3-4-2-1
+1640774,Aston Villa,24,2,73,11,FormationChange,4-2-3-1
+1640774,Chelsea,15,1,0,0,FormationSet,3-4-2-1
+1640777,Arsenal,13,2,72,9,FormationChange,4-2-3-1
+1640777,Arsenal,13,2,75,32,FormationChange,4-2-3-1
+1640777,Arsenal,13,2,81,26,FormationChange,3-4-2-1
+1640777,Leeds,19,2,88,50,FormationChange,4-2-3-1
+1640777,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640779,Man City,167,2,45,2,FormationChange,3-4-2-1
+1640779,Liverpool,26,2,72,34,FormationChange,4-4-2
+1640779,Liverpool,26,2,89,8,FormationChange,5-4-1
+1640779,Liverpool,26,1,0,0,FormationSet,4-2-3-1
+1640780,Newcastle,23,2,77,54,FormationChange,4-3-3
+1640780,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640781,Southampton,18,2,74,23,FormationChange,4-3-3
+1640781,West Ham,29,2,87,3,FormationChange,3-4-2-1
+1640781,West Ham,29,1,0,0,FormationSet,3-4-3
+1640787,Brighton,211,2,63,22,FormationChange,3-4-2-1
+1640787,Nottingham Forest,174,2,68,3,FormationChange,4-3-3
+1640787,Nottingham Forest,174,2,86,3,FormationChange,5-4-1
+1640787,Brighton,211,1,0,0,FormationSet,3-4-2-1
+1640790,Crystal Palace,162,1,0,0,FormationSet,4-3-3
+1640785,Bournemouth,183,1,15,30,FormationChange,3-4-2-1
+1640785,Bournemouth,183,1,36,10,FormationChange,4-2-3-1
+1640785,Southampton,18,2,64,0,FormationChange,5-4-1
+1640785,Southampton,18,2,65,25,FormationChange,5-3-2
+1640785,Bournemouth,183,2,76,34,FormationChange,3-4-2-1
+1640785,Bournemouth,183,2,82,25,FormationChange,19
+1640785,Southampton,18,2,87,26,FormationChange,5-4-1
+1640785,Southampton,18,1,0,0,FormationSet,4-4-2
+1640786,Chelsea,15,1,15,0,FormationChange,3-4-2-1
+1640786,Chelsea,15,1,0,0,FormationSet,3-5-1-1
+1640792,Liverpool,26,2,57,3,FormationChange,4-4-2
+1640792,West Ham,29,2,73,13,FormationChange,4-4-2
+1640792,Liverpool,26,2,80,34,FormationChange,4-3-3
+1640792,Liverpool,26,1,0,0,FormationSet,4-4-2
+1640793,Man Utd,32,2,75,21,FormationChange,4-2-3-1
+1640793,Tottenham,30,2,81,21,FormationChange,18
+1640793,Man Utd,32,2,86,46,FormationChange,4-1-4-1
+1640793,Tottenham,30,2,88,23,FormationChange,3-4-2-1
+1640793,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640791,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640788,Aston Villa,24,2,45,0,FormationChange,9
+1640788,Aston Villa,24,2,68,37,FormationChange,4-2-3-1
+1640788,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640789,Leeds,19,2,45,0,FormationChange,4-2-3-1
+1640789,Leeds,19,2,74,20,FormationChange,4-2-3-1
+1640789,Leeds,19,2,81,5,FormationChange,4-2-3-1
+1640789,Leicester,14,2,84,34,FormationChange,4-4-2
+1640789,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640795,Chelsea,15,1,35,58,FormationChange,9
+1640795,Man Utd,32,2,51,17,FormationChange,4-2-3-1
+1640795,Chelsea,15,2,78,31,FormationChange,4-3-1-2
+1640795,Man Utd,32,2,80,6,FormationChange,4-2-3-1
+1640795,Chelsea,15,1,0,0,FormationSet,3-4-2-1
+1640796,Crystal Palace,162,2,61,38,FormationChange,21
+1640796,Everton,31,2,85,19,FormationChange,4-2-3-1
+1640796,Everton,31,1,0,0,FormationSet,4-2-3-1
+1640798,Brighton,211,2,45,0,FormationChange,18
+1640798,Brighton,211,2,65,17,FormationChange,4-2-3-1
+1640798,Man City,167,2,76,4,FormationChange,4-2-3-1
+1640798,Man City,167,1,0,0,FormationSet,4-3-3
+1640799,Liverpool,26,2,61,35,FormationChange,4-4-2
+1640799,Nottingham Forest,174,2,63,45,FormationChange,5-3-2
+1640799,Nottingham Forest,174,1,0,0,FormationSet,4-3-3
+1640794,Brentford,189,2,61,0,FormationChange,3-4-2-1
+1640794,Aston Villa,24,2,62,41,FormationChange,4-2-3-1
+1640794,Aston Villa,24,1,0,0,FormationSet,4-2-3-1
+1640797,Fulham,170,2,88,2,FormationChange,5-4-1
+1640797,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640800,Arsenal,13,2,71,2,FormationChange,4-3-3
+1640800,Southampton,18,2,72,28,FormationChange,3-5-2
+1640800,Southampton,18,2,79,32,FormationChange,3-4-2-1
+1640800,Arsenal,13,2,82,15,FormationChange,4-3-3
+1640800,Southampton,18,1,0,0,FormationSet,4-4-2
+1640801,Tottenham,30,2,65,59,FormationChange,3-4-2-1
+1640801,Newcastle,23,2,74,41,FormationChange,4-3-3
+1640801,Tottenham,30,2,80,44,FormationChange,3-4-2-1
+1640801,Tottenham,30,1,0,0,FormationSet,3-5-2
+1640803,Leicester,14,2,61,20,FormationChange,4-1-4-1
+1640803,Wolves,161,2,70,22,FormationChange,4-2-3-1
+1640803,Wolves,161,1,0,0,FormationSet,4-2-3-1
+1640802,Bournemouth,183,2,56,21,FormationChange,4-2-3-1
+1640802,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1640805,Tottenham,30,2,45,1,FormationChange,3-4-2-1
+1640805,Bournemouth,183,2,62,33,FormationChange,3-4-2-1
+1640805,Tottenham,30,2,62,49,FormationChange,3-4-2-1
+1640805,Tottenham,30,2,83,41,FormationChange,3-4-2-1
+1640805,Bournemouth,183,2,88,52,FormationChange,3-4-2-1
+1640805,Bournemouth,183,1,0,0,FormationSet,3-5-1-1
+1640806,Brentford,189,2,83,5,FormationChange,4-3-3
+1640806,Brentford,189,1,0,0,FormationSet,4-3-3
+1640807,Chelsea,15,2,45,0,FormationChange,4-3-3
+1640807,Chelsea,15,2,63,49,FormationChange,4-3-3
+1640807,Brighton,211,2,72,6,FormationChange,4-2-3-1
+1640807,Chelsea,15,2,79,0,FormationChange,21
+1640807,Chelsea,15,1,0,0,FormationSet,3-4-2-1
+1640808,Crystal Palace,162,2,62,23,FormationChange,4-2-3-1
+1640808,Crystal Palace,162,2,74,49,FormationChange,4-2-3-1
+1640808,Crystal Palace,162,2,85,19,FormationChange,4-2-3-1
+1640808,Southampton,18,1,0,0,FormationSet,3-5-2
+1640809,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640810,Leicester,14,1,0,0,FormationSet,3-4-3
+1640811,Liverpool,26,2,60,2,FormationChange,3
+1640811,Leeds,19,2,71,53,FormationChange,4-2-3-1
+1640811,Leeds,19,2,90,29,FormationChange,5-4-1
+1640811,Liverpool,26,1,0,0,FormationSet,3
+1640813,Aston Villa,24,1,35,2,FormationChange,4-2-3-1
+1640813,Aston Villa,24,2,68,18,FormationChange,4-2-3-1
+1640813,Newcastle,23,2,82,29,FormationChange,4-3-3
+1640813,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640804,Arsenal,13,2,63,7,FormationChange,4-3-3
+1640804,Nottingham Forest,174,2,63,26,FormationChange,5-3-2
+1640804,Arsenal,13,2,75,23,FormationChange,4-3-3
+1640804,Nottingham Forest,174,1,0,0,FormationSet,4-3-3
+1640812,West Ham,29,2,76,45,FormationChange,4-2-3-1
+1640812,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640816,Everton,31,2,70,14,FormationChange,4-3-3
+1640816,Leicester,14,2,77,49,FormationChange,4-1-4-1
+1640816,Leicester,14,2,90,57,FormationChange,4-1-4-1
+1640816,Everton,31,1,0,0,FormationSet,4-3-3
+1640817,Leeds,19,2,85,38,FormationChange,5-4-1
+1640817,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640818,Man City,167,1,25,18,FormationChange,4-3-3
+1640818,Fulham,170,2,79,53,FormationChange,4-2-3-1
+1640818,Man City,167,1,0,0,FormationSet,4-3-3
+1640819,Nottingham Forest,174,2,78,22,FormationChange,4-2-3-1
+1640819,Brentford,189,2,80,24,FormationChange,5-3-2
+1640819,Nottingham Forest,174,2,89,11,FormationChange,4-3-3
+1640819,Brentford,189,1,0,0,FormationSet,4-3-3
+1640823,Wolves,161,1,49,24,FormationChange,4-1-4-1
+1640823,Wolves,161,2,45,1,FormationChange,4-1-4-1
+1640823,Brighton,211,2,64,4,FormationChange,4-2-3-1
+1640823,Brighton,211,2,81,49,FormationChange,4-2-3-1
+1640823,Wolves,161,1,0,0,FormationSet,4-3-3
+1640814,Aston Villa,24,2,45,0,FormationChange,4-4-2
+1640814,Man Utd,32,2,65,10,FormationChange,4-2-3-1
+1640814,Aston Villa,24,2,78,21,FormationChange,5
+1640814,Aston Villa,24,1,0,0,FormationSet,4-2-2-2
+1640815,Arsenal,13,2,86,32,FormationChange,4-3-3
+1640815,Arsenal,13,2,93,33,FormationChange,5-4-1
+1640815,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640820,Southampton,18,1,33,22,FormationChange,4-2-3-1
+1640820,Newcastle,23,2,63,40,FormationChange,4-3-3
+1640820,Southampton,18,2,63,41,FormationChange,4-4-2
+1640820,Newcastle,23,2,80,19,FormationChange,4-3-3
+1640820,Southampton,18,1,0,0,FormationSet,4-2-3-1
+1640821,Tottenham,30,2,67,44,FormationChange,5-3-2
+1640821,Liverpool,26,2,73,51,FormationChange,3
+1640821,Tottenham,30,2,87,59,FormationChange,3-4-2-1
+1640821,Liverpool,26,2,91,36,FormationChange,5-4-1
+1640821,Tottenham,30,1,0,0,FormationSet,5-3-2
+1640822,Crystal Palace,162,1,0,0,FormationSet,4-3-3
+1640824,Everton,31,1,28,47,FormationChange,4-3-3
+1640824,Bournemouth,183,2,67,6,FormationChange,4-4-2
+1640824,Bournemouth,183,2,87,39,FormationChange,4-1-4-1
+1640824,Everton,31,1,0,0,FormationSet,4-3-3
+1640827,Southampton,18,2,58,41,FormationChange,4-2-3-1
+1640827,Liverpool,26,2,67,51,FormationChange,4-3-3
+1640827,Liverpool,26,2,86,38,FormationChange,4-3-3
+1640827,Southampton,18,1,0,0,FormationSet,5-3-2
+1640828,Brentford,189,2,61,38,FormationChange,3-5-2
+1640828,Man City,167,2,86,14,FormationChange,4-2-3-1
+1640828,Man City,167,1,0,0,FormationSet,4-3-3
+1640829,Chelsea,15,1,6,30,FormationChange,3-4-2-1
+1640829,Chelsea,15,2,45,0,FormationChange,3-4-2-1
+1640829,Chelsea,15,2,66,29,FormationChange,9
+1640829,Chelsea,15,2,72,27,FormationChange,4-3-3
+1640829,Newcastle,23,2,84,18,FormationChange,4-3-3
+1640829,Newcastle,23,2,86,27,FormationChange,4-3-3
+1640829,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640830,Crystal Palace,162,2,59,12,FormationChange,4-2-3-1
+1640830,Crystal Palace,162,2,78,0,FormationChange,4-2-3-1
+1640830,Nottingham Forest,174,2,80,58,FormationChange,4-3-3
+1640830,Crystal Palace,162,2,84,11,FormationChange,4-1-4-1
+1640830,Nottingham Forest,174,1,0,0,FormationSet,4-3-3
+1640831,Tottenham,30,2,56,52,FormationChange,3-4-3
+1640831,Tottenham,30,2,68,6,FormationChange,3-5-2
+1640831,Leeds,19,2,78,34,FormationChange,5-4-1
+1640831,Leeds,19,2,88,17,FormationChange,4-4-1-1
+1640831,Tottenham,30,1,0,0,FormationSet,3-4-3
+1640832,Leicester,14,2,54,32,FormationChange,4-1-4-1
+1640832,Leicester,14,2,68,17,FormationChange,4-1-4-1
+1640832,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1640833,Wolves,161,2,67,12,FormationChange,3-4-2-1
+1640833,Wolves,161,2,79,42,FormationChange,4-3-3
+1640833,Wolves,161,1,0,0,FormationSet,5-3-2
+1640825,Brighton,211,1,43,7,FormationChange,4-2-2-2
+1640825,Brighton,211,2,65,8,FormationChange,3-4-2-1
+1640825,Aston Villa,24,2,73,43,FormationChange,5-4-1
+1640825,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1640826,Man Utd,32,2,54,55,FormationChange,4-2-3-1
+1640826,Man Utd,32,2,72,0,FormationChange,4-2-3-1
+1640826,Fulham,170,2,91,3,FormationChange,4-2-3-1
+1640826,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640834,West Ham,29,2,77,41,FormationChange,4-2-3-1
+1640834,Arsenal,13,2,87,27,FormationChange,4-3-3
+1640834,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640835,Liverpool,26,2,78,22,FormationChange,4-3-3
+1640835,Aston Villa,24,2,85,15,FormationChange,4-4-2
+1640835,Liverpool,26,2,87,13,FormationChange,4-3-3
+1640835,Aston Villa,24,1,0,0,FormationSet,4-4-2
+1640836,Brentford,189,2,81,40,FormationChange,3-5-2
+1640836,Tottenham,30,1,0,0,FormationSet,3-4-3
+1640838,Crystal Palace,162,1,34,44,FormationChange,4-2-3-1
+1640838,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640839,Wolves,161,2,59,5,FormationChange,4-3-3
+1640839,Wolves,161,2,77,59,FormationChange,3-4-2-1
+1640839,Wolves,161,1,0,0,FormationSet,4-3-3
+1640841,Newcastle,23,2,88,2,FormationChange,4-3-3
+1640841,Leicester,14,1,0,0,FormationSet,4-2-3-1
+1640843,Southampton,18,1,0,0,FormationSet,4-2-3-1
+1640837,Bournemouth,183,2,45,0,FormationChange,4-4-2
+1640837,Chelsea,15,2,52,10,FormationChange,4-3-3
+1640837,Chelsea,15,2,87,29,FormationChange,5-3-2
+1640837,Bournemouth,183,1,0,0,FormationSet,5-3-2
+1640842,Nottingham Forest,174,2,61,53,FormationChange,4-3-3
+1640842,Man Utd,32,2,64,31,FormationChange,4-2-3-1
+1640842,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640840,Leeds,19,2,71,45,FormationChange,4-3-3
+1640840,Leeds,19,1,0,0,FormationSet,4-3-3
+1640847,Leicester,14,1,14,39,FormationChange,4-2-3-1
+1640847,Liverpool,26,2,61,52,FormationChange,4-3-3
+1640847,Liverpool,26,1,0,0,FormationSet,4-3-3
+1640852,West Ham,29,2,63,50,FormationChange,4-4-2
+1640852,Brentford,189,2,66,11,FormationChange,3-5-1-1
+1640852,Brentford,189,2,94,22,FormationChange,5-4-1
+1640852,West Ham,29,1,0,0,FormationSet,3-4-2-1
+1640844,Bournemouth,183,2,45,0,FormationChange,4-2-3-1
+1640844,Bournemouth,183,1,0,0,FormationSet,4-4-2
+1640845,Arsenal,13,2,87,14,FormationChange,5-3-2
+1640845,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1640846,Southampton,18,2,45,0,FormationChange,4-2-3-1
+1640846,Southampton,18,2,76,40,FormationChange,4-4-1-1
+1640846,Southampton,18,2,89,49,FormationChange,4-2-3-1
+1640846,Fulham,170,2,97,6,FormationChange,3-4-3
+1640846,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640848,Everton,31,2,69,26,FormationChange,5-4-1
+1640848,Everton,31,2,72,36,FormationChange,5-3-2
+1640848,Everton,31,1,0,0,FormationSet,5-3-2
+1640849,Newcastle,23,2,63,30,FormationChange,4-3-3
+1640849,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640853,Wolves,161,2,45,0,FormationChange,4-3-3
+1640853,Wolves,161,2,72,11,FormationChange,3-4-3
+1640853,Wolves,161,1,0,0,FormationSet,4-2-3-1
+1640850,Chelsea,15,2,72,20,FormationChange,4-2-3-1
+1640850,Nottingham Forest,174,2,88,4,FormationChange,4-3-3
+1640850,Nottingham Forest,174,1,0,0,FormationSet,4-3-3
+1640851,Tottenham,30,2,62,26,FormationChange,3-4-3
+1640851,Aston Villa,24,2,65,18,FormationChange,4-2-3-1
+1640851,Aston Villa,24,2,77,18,FormationChange,4-2-3-1
+1640851,Aston Villa,24,2,82,21,FormationChange,5-3-2
+1640851,Tottenham,30,1,0,0,FormationSet,3-4-3
+1640856,Liverpool,26,2,45,0,FormationChange,4-3-3
+1640856,Liverpool,26,1,0,0,FormationSet,4-3-3
+1640854,Newcastle,23,2,86,24,FormationChange,4-3-3
+1640854,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640859,Everton,31,2,57,54,FormationChange,4-3-3
+1640859,Brighton,211,2,61,50,FormationChange,4-1-4-1
+1640859,Everton,31,2,63,12,FormationChange,4-4-2
+1640859,Brighton,211,2,78,11,FormationChange,4-3-3
+1640859,Everton,31,1,0,0,FormationSet,4-3-3
+1640861,Leicester,14,1,7,56,FormationChange,4-2-3-1
+1640861,Leicester,14,2,71,41,FormationChange,19
+1640861,Fulham,170,2,81,42,FormationChange,5-4-1
+1640861,Leicester,14,1,0,0,FormationSet,4-2-3-1
+1640862,Man Utd,32,1,46,11,FormationChange,4-2-3-1
+1640862,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640855,Aston Villa,24,2,45,2,FormationChange,4-2-3-1
+1640855,Aston Villa,24,1,0,0,FormationSet,4-4-2
+1640858,Crystal Palace,162,2,60,43,FormationChange,4-4-2
+1640858,Crystal Palace,162,2,73,20,FormationChange,4-4-2
+1640858,Tottenham,30,2,77,8,FormationChange,3-4-2-1
+1640858,Tottenham,30,2,85,57,FormationChange,3-4-2-1
+1640858,Tottenham,30,1,0,0,FormationSet,3-4-2-1
+1640860,West Ham,29,2,67,57,FormationChange,4-2-3-1
+1640860,West Ham,29,2,79,59,FormationChange,4-2-3-1
+1640860,Leeds,19,2,90,29,FormationChange,4-2-3-1
+1640860,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640863,Southampton,18,1,33,28,FormationChange,19
+1640863,Southampton,18,2,63,50,FormationChange,18
+1640863,Southampton,18,2,84,12,FormationChange,18
+1640863,Southampton,18,1,0,0,FormationSet,19
+1640857,Chelsea,15,1,4,40,FormationChange,4-2-3-1
+1640857,Man City,167,2,45,0,FormationChange,24
+1640857,Chelsea,15,2,68,3,FormationChange,4-2-3-1
+1640857,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1640737,Chelsea,15,2,57,13,FormationChange,5-3-2
+1640737,Chelsea,15,2,79,9,FormationChange,4-4-2
+1640737,Fulham,170,2,93,5,FormationChange,4-2-3-1
+1640737,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640864,Aston Villa,24,2,45,0,FormationChange,4-2-3-1
+1640864,Aston Villa,24,2,81,0,FormationChange,4-4-2
+1640864,Leeds,19,2,87,32,FormationChange,4-2-3-1
+1640864,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640865,Brentford,189,2,70,57,FormationChange,5-3-2
+1640865,Bournemouth,183,2,77,44,FormationChange,3-4-2-1
+1640865,Brentford,189,1,0,0,FormationSet,4-3-3
+1640866,Brighton,211,2,65,39,FormationChange,4-2-3-1
+1640866,Liverpool,26,2,68,18,FormationChange,4-3-3
+1640866,Brighton,211,2,90,24,FormationChange,4-2-3-1
+1640866,Liverpool,26,1,0,0,FormationSet,3
+1640868,Southampton,18,2,45,2,FormationChange,4-1-4-1
+1640868,Southampton,18,2,60,44,FormationChange,4-2-3-1
+1640868,Everton,31,2,68,57,FormationChange,3-5-2
+1640868,Everton,31,2,81,19,FormationChange,18
+1640868,Southampton,18,2,84,59,FormationChange,5-4-1
+1640868,Southampton,18,1,0,0,FormationSet,4-2-3-1
+1640869,Man Utd,32,2,71,39,FormationChange,4-2-3-1
+1640869,Man Utd,32,2,92,25,FormationChange,3-4-3
+1640869,Man City,167,1,0,0,FormationSet,4-3-3
+1640871,Nottingham Forest,174,2,54,20,FormationChange,4-3-3
+1640871,Leicester,14,2,67,42,FormationChange,4-2-3-1
+1640871,Nottingham Forest,174,2,86,0,FormationChange,4-2-3-1
+1640871,Leicester,14,1,0,0,FormationSet,4-2-3-1
+1640873,West Ham,29,2,59,16,FormationChange,4-2-3-1
+1640873,Wolves,161,2,72,26,FormationChange,4-3-3
+1640873,Wolves,161,2,83,0,FormationChange,5-3-2
+1640873,West Ham,29,1,0,0,FormationSet,4-3-3
+1640867,Chelsea,15,2,62,11,FormationChange,4-2-3-1
+1640867,Crystal Palace,162,2,68,59,FormationChange,4-4-2
+1640867,Chelsea,15,2,88,36,FormationChange,5-4-1
+1640867,Crystal Palace,162,1,0,0,FormationSet,4-2-3-1
+1640870,Newcastle,23,2,45,1,FormationChange,4-3-3
+1640870,Newcastle,23,2,70,34,FormationChange,4-2-3-1
+1640870,Fulham,170,2,77,3,FormationChange,5-4-1
+1640870,Fulham,170,2,92,5,FormationChange,4-4-2
+1640870,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640872,Tottenham,30,2,71,3,FormationChange,3-4-2-1
+1640872,Tottenham,30,2,75,10,FormationChange,4-4-2
+1640872,Arsenal,13,2,93,18,FormationChange,4-3-3
+1640872,Tottenham,30,1,0,0,FormationSet,3-4-2-1
+1640736,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640741,Tottenham,30,2,74,17,FormationChange,3-4-2-1
+1640741,Tottenham,30,2,77,49,FormationChange,3-4-2-1
+1640741,Man City,167,2,80,10,FormationChange,4-2-3-1
+1640741,Man City,167,2,90,9,FormationChange,3-4-3
+1640741,Man City,167,1,0,0,FormationSet,4-2-3-1
+1640878,Nottingham Forest,174,1,44,5,FormationChange,4-3-1-2
+1640878,Bournemouth,183,1,0,0,FormationSet,4-4-2
+1640880,Newcastle,23,2,68,32,FormationChange,4-3-3
+1640880,Crystal Palace,162,2,70,35,FormationChange,4-2-3-1
+1640880,Crystal Palace,162,1,0,0,FormationSet,4-2-3-1
+1640886,Brighton,211,1,29,9,FormationChange,4-2-3-1
+1640886,Brighton,211,2,77,37,FormationChange,4-2-3-1
+1640886,Leicester,14,2,85,28,FormationChange,5-4-1
+1640886,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1640888,Chelsea,15,2,54,50,FormationChange,4-2-3-1
+1640888,Liverpool,26,2,62,15,FormationChange,4-3-3
+1640888,Liverpool,26,2,81,43,FormationChange,4-3-3
+1640888,Chelsea,15,1,0,0,FormationSet,3-4-2-1
+1640892,Southampton,18,2,61,13,FormationChange,3-4-2-1
+1640892,Aston Villa,24,2,80,53,FormationChange,4-4-2
+1640892,Southampton,18,2,83,57,FormationChange,3-4-2-1
+1640892,Southampton,18,1,0,0,FormationSet,4-2-3-1
+1640894,Everton,31,2,45,0,FormationChange,18
+1640894,Everton,31,1,0,0,FormationSet,3-4-2-1
+1640876,Man Utd,32,2,70,21,FormationChange,4-2-3-1
+1640876,Arsenal,13,2,92,49,FormationChange,5-4-1
+1640876,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640884,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640890,Wolves,161,2,45,0,FormationChange,4-3-1-2
+1640890,Wolves,161,2,80,48,FormationChange,4-2-3-1
+1640890,Man City,167,1,0,0,FormationSet,24
+1640882,Fulham,170,2,79,20,FormationChange,4-2-3-1
+1640882,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640902,Chelsea,15,2,59,45,FormationChange,4-3-3
+1640902,Fulham,170,2,74,42,FormationChange,4-2-3-1
+1640902,Chelsea,15,2,77,11,FormationChange,4-3-3
+1640902,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640896,Aston Villa,24,2,45,0,FormationChange,4-2-3-1
+1640896,Leicester,14,2,88,24,FormationChange,5-4-1
+1640896,Leicester,14,1,0,0,FormationSet,4-2-3-1
+1640898,Southampton,18,2,45,0,FormationChange,4-4-2
+1640898,Brentford,189,2,81,37,FormationChange,5-4-1
+1640898,Brentford,189,1,0,0,FormationSet,4-3-3
+1640900,Brighton,211,2,56,53,FormationChange,4-1-4-1
+1640900,Brighton,211,2,74,51,FormationChange,4-1-4-1
+1640900,Brighton,211,2,88,23,FormationChange,4-2-3-1
+1640900,Bournemouth,183,1,0,0,FormationSet,4-4-1-1
+1640904,Arsenal,13,2,76,55,FormationChange,4-3-3
+1640904,Everton,31,1,0,0,FormationSet,5
+1640906,Man Utd,32,2,58,58,FormationChange,4-2-3-1
+1640906,Man Utd,32,2,70,0,FormationChange,4-2-3-1
+1640906,Crystal Palace,162,2,72,6,FormationChange,4-2-3-1
+1640906,Man Utd,32,2,80,40,FormationChange,4-4-1-1
+1640906,Man Utd,32,2,86,28,FormationChange,5-4-1
+1640906,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640908,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640914,Liverpool,26,2,64,40,FormationChange,4-3-3
+1640914,Liverpool,26,2,76,9,FormationChange,4-4-2
+1640914,Wolves,161,1,0,0,FormationSet,4-4-2
+1640910,Nottingham Forest,174,2,45,0,FormationChange,4-2-3-1
+1640910,Nottingham Forest,174,1,0,0,FormationSet,4-3-1-2
+1640912,Man City,167,2,58,20,FormationChange,3
+1640912,Man City,167,2,83,46,FormationChange,3
+1640912,Tottenham,30,2,88,1,FormationChange,5-3-2
+1640912,Man City,167,1,0,0,FormationSet,4-4-2
+1640749,Man Utd,32,2,58,30,FormationChange,4-2-3-1
+1640749,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640916,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640918,Newcastle,23,2,84,3,FormationChange,4-2-3-1
+1640918,Bournemouth,183,1,0,0,FormationSet,4-4-1-1
+1640920,Crystal Palace,162,1,25,0,FormationChange,4-2-3-1
+1640920,Brighton,211,2,75,42,FormationChange,4-2-3-1
+1640920,Crystal Palace,162,1,0,0,FormationSet,4-4-2
+1640922,Nottingham Forest,174,1,6,47,FormationChange,4-2-3-1
+1640922,Nottingham Forest,174,1,0,0,FormationSet,4-2-3-1
+1640926,Tottenham,30,2,75,6,FormationChange,4-2-3-1
+1640926,Tottenham,30,2,78,11,FormationChange,4-2-3-1
+1640926,Leicester,14,2,87,7,FormationChange,4-2-3-1
+1640926,Tottenham,30,1,0,0,FormationSet,3-4-2-1
+1640932,Wolves,161,1,27,57,FormationChange,4-2-3-1
+1640932,Southampton,18,1,0,0,FormationSet,5-3-2
+1640934,Chelsea,15,2,67,10,FormationChange,4-2-3-1
+1640934,West Ham,29,1,0,0,FormationSet,3-4-2-1
+1640924,Man Utd,32,2,60,36,FormationChange,4-2-3-1
+1640924,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640930,Aston Villa,24,2,60,11,FormationChange,4-4-2
+1640930,Aston Villa,24,2,75,30,FormationChange,4-4-2
+1640930,Man City,167,2,84,25,FormationChange,4-2-3-1
+1640930,Man City,167,1,0,0,FormationSet,24
+1640928,Liverpool,26,2,79,15,FormationChange,4-3-3
+1640928,Liverpool,26,1,0,0,FormationSet,4-3-3
+1640784,Man City,167,2,61,0,FormationChange,4-3-3
+1640784,Man City,167,2,76,6,FormationChange,4-2-3-1
+1640784,Man City,167,2,86,59,FormationChange,4-3-3
+1640784,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640936,Arsenal,13,2,94,42,FormationChange,5-4-1
+1640936,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640938,Crystal Palace,162,2,62,56,FormationChange,4-4-2
+1640938,Brentford,189,2,75,34,FormationChange,18
+1640938,Crystal Palace,162,2,81,32,FormationChange,4-2-3-1
+1640938,Brentford,189,2,83,17,FormationChange,18
+1640938,Crystal Palace,162,1,0,0,FormationSet,4-2-3-1
+1640940,Fulham,170,2,61,56,FormationChange,4-2-3-1
+1640940,Brighton,211,2,72,35,FormationChange,21
+1640940,Fulham,170,2,81,13,FormationChange,4-2-3-1
+1640940,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1640942,Chelsea,15,2,45,2,FormationChange,4-2-3-1
+1640942,Chelsea,15,2,83,34,FormationChange,3-5-2
+1640942,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1640944,Leeds,19,2,45,7,FormationChange,4-2-3-1
+1640944,Leeds,19,2,77,49,FormationChange,4-2-3-1
+1640944,Everton,31,1,0,0,FormationSet,5
+1640948,Newcastle,23,1,24,1,FormationChange,9
+1640948,Liverpool,26,2,58,50,FormationChange,4-3-3
+1640948,Liverpool,26,1,0,0,FormationSet,4-3-3
+1640950,Nottingham Forest,174,2,57,36,FormationChange,4-3-1-2
+1640950,Nottingham Forest,174,2,78,27,FormationChange,4-2-3-1
+1640950,Nottingham Forest,174,1,0,0,FormationSet,9
+1640954,Wolves,161,2,61,12,FormationChange,4-2-3-1
+1640954,Wolves,161,1,0,0,FormationSet,4-2-3-1
+1640946,Man Utd,32,2,45,0,FormationChange,4-2-3-1
+1640946,Man Utd,32,2,68,36,FormationChange,4-2-3-1
+1640946,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640952,West Ham,29,2,71,16,FormationChange,3-4-2-1
+1640952,Tottenham,30,2,77,9,FormationChange,3-4-2-1
+1640952,West Ham,29,2,81,9,FormationChange,4-2-3-1
+1640952,West Ham,29,1,0,0,FormationSet,3-4-2-1
+1640962,Wolves,161,2,75,49,FormationChange,4-3-3
+1640962,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640956,Man City,167,2,54,38,FormationChange,24
+1640956,Man City,167,2,71,30,FormationChange,24
+1640956,Man City,167,2,79,18,FormationChange,24
+1640956,Bournemouth,183,1,0,0,FormationSet,5-4-1
+1640958,Liverpool,26,2,70,40,FormationChange,4-3-3
+1640958,Liverpool,26,2,84,9,FormationChange,4-3-3
+1640958,Crystal Palace,162,1,0,0,FormationSet,4-2-3-1
+1640960,Aston Villa,24,2,60,31,FormationChange,4-4-2
+1640960,Everton,31,1,0,0,FormationSet,4-1-4-1
+1640964,Southampton,18,2,62,48,FormationChange,4-2-3-1
+1640964,Leeds,19,2,85,25,FormationChange,4-3-3
+1640964,Southampton,18,1,0,0,FormationSet,4-4-2
+1640966,Leicester,14,2,61,36,FormationChange,4-2-3-1
+1640966,Leicester,14,2,77,0,FormationChange,19
+1640966,Arsenal,13,2,92,32,FormationChange,4-3-3
+1640966,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640874,West Ham,29,2,45,0,FormationChange,4-3-3
+1640874,Nottingham Forest,174,2,76,42,FormationChange,9
+1640874,Nottingham Forest,174,2,85,31,FormationChange,4-2-3-1
+1640874,West Ham,29,1,0,0,FormationSet,4-3-3
+1640972,Chelsea,15,1,18,40,FormationChange,4-2-3-1
+1640972,Chelsea,15,2,61,21,FormationChange,4-2-3-1
+1640972,Tottenham,30,2,78,38,FormationChange,3-4-2-1
+1640972,Chelsea,15,2,82,37,FormationChange,4-2-3-1
+1640972,Tottenham,30,1,0,0,FormationSet,3-4-2-1
+1640734,Everton,31,2,60,12,FormationChange,5
+1640734,Arsenal,13,2,81,20,FormationChange,4-3-3
+1640734,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640740,Liverpool,26,2,78,36,FormationChange,4-3-3
+1640740,Liverpool,26,2,89,1,FormationChange,4-3-3
+1640740,Liverpool,26,1,0,0,FormationSet,4-3-3
+1640875,Arsenal,13,1,21,55,FormationChange,4-3-3
+1640875,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640877,Crystal Palace,162,2,62,58,FormationChange,4-4-2
+1640877,Crystal Palace,162,2,66,34,FormationChange,4-4-2
+1640877,Crystal Palace,162,2,74,54,FormationChange,9
+1640877,Crystal Palace,162,1,0,0,FormationSet,4-2-3-1
+1640881,West Ham,29,2,75,45,FormationChange,4-2-3-1
+1640881,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1640883,Leeds,19,2,67,26,FormationChange,4-2-3-1
+1640883,Chelsea,15,2,67,27,FormationChange,3-4-3
+1640883,Chelsea,15,2,74,40,FormationChange,3-4-3
+1640883,Leeds,19,2,79,55,FormationChange,4-2-3-1
+1640883,Chelsea,15,2,83,42,FormationChange,3-4-3
+1640883,Chelsea,15,1,0,0,FormationSet,3-4-3
+1640887,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640891,Leicester,14,2,68,1,FormationChange,4-2-3-1
+1640891,Southampton,18,1,0,0,FormationSet,4-2-3-1
+1640893,Wolves,161,2,45,1,FormationChange,3-4-2-1
+1640893,Tottenham,30,2,84,3,FormationChange,4-4-2
+1640893,Tottenham,30,1,0,0,FormationSet,3-4-2-1
+1640885,Man Utd,32,2,76,14,FormationChange,4-2-3-1
+1640885,Liverpool,26,1,0,0,FormationSet,4-3-3
+1640889,Nottingham Forest,174,2,71,40,FormationChange,4-2-3-1
+1640889,Nottingham Forest,174,1,0,0,FormationSet,9
+1640879,Brentford,189,2,76,12,FormationChange,4-3-3
+1640879,Brentford,189,1,0,0,FormationSet,4-3-3
+1640895,Liverpool,26,2,65,15,FormationChange,4-2-3-1
+1640895,Liverpool,26,1,0,0,FormationSet,4-3-3
+1640897,Man City,167,2,57,51,FormationChange,4-4-2
+1640897,Crystal Palace,162,2,60,44,FormationChange,4-2-3-1
+1640897,Man City,167,2,78,37,FormationChange,4-2-3-1
+1640897,Crystal Palace,162,2,79,33,FormationChange,4-2-3-1
+1640897,Crystal Palace,162,1,0,0,FormationSet,4-3-3
+1640899,Brentford,189,2,74,14,FormationChange,4-3-3
+1640899,Everton,31,2,91,14,FormationChange,5-4-1
+1640899,Everton,31,1,0,0,FormationSet,5
+1640903,Leeds,19,2,65,53,FormationChange,4-2-3-1
+1640903,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640905,Chelsea,15,2,45,1,FormationChange,3-5-2
+1640905,Chelsea,15,2,72,26,FormationChange,4-2-3-1
+1640905,Leicester,14,1,0,0,FormationSet,3-4-3
+1640911,Nottingham Forest,174,2,45,0,FormationChange,4-2-3-1
+1640911,Nottingham Forest,174,2,67,59,FormationChange,4-2-3-1
+1640911,Nottingham Forest,174,2,72,51,FormationChange,4-2-3-1
+1640911,Tottenham,30,1,0,0,FormationSet,3-4-2-1
+1640901,Fulham,170,2,75,11,FormationChange,4-2-3-1
+1640901,Arsenal,13,2,76,43,FormationChange,4-3-3
+1640901,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640907,Man Utd,32,1,43,54,FormationChange,4-1-4-1
+1640907,Man Utd,32,2,59,50,FormationChange,4-1-4-1
+1640907,Southampton,18,2,84,30,FormationChange,4-2-3-1
+1640907,Man Utd,32,2,90,2,FormationChange,4-1-4-1
+1640907,Man Utd,32,1,0,0,FormationSet,4-1-4-1
+1640909,Wolves,161,2,45,0,FormationChange,3
+1640909,Newcastle,23,2,67,47,FormationChange,4-3-3
+1640909,Wolves,161,2,68,11,FormationChange,4-2-3-1
+1640909,Wolves,161,2,74,34,FormationChange,3-4-2-1
+1640909,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640913,West Ham,29,2,76,2,FormationChange,4-2-3-1
+1640913,Aston Villa,24,2,79,48,FormationChange,4-4-2
+1640913,Aston Villa,24,2,84,59,FormationChange,4-2-3-1
+1640913,West Ham,29,1,0,0,FormationSet,4-1-4-1
+1640746,Crystal Palace,162,2,45,0,FormationChange,4-2-3-1
+1640746,Brighton,211,2,90,30,FormationChange,5-4-1
+1640746,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1640742,Brentford,189,1,45,19,FormationChange,4-3-3
+1640742,Southampton,18,2,65,56,FormationChange,4-2-3-1
+1640742,Brentford,189,2,81,25,FormationChange,5-3-2
+1640742,Southampton,18,1,0,0,FormationSet,4-2-3-1
+1640929,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640917,Bournemouth,183,2,91,5,FormationChange,4-4-2
+1640917,Bournemouth,183,1,0,0,FormationSet,4-4-1-1
+1640919,Brentford,189,2,60,42,FormationChange,4-3-3
+1640919,Brentford,189,2,93,41,FormationChange,5-3-2
+1640919,Leicester,14,1,0,0,FormationSet,4-2-3-1
+1640923,Everton,31,2,78,21,FormationChange,4-4-2
+1640923,Chelsea,15,2,80,58,FormationChange,3-4-3
+1640923,Everton,31,2,83,16,FormationChange,4-4-2
+1640923,Chelsea,15,2,86,4,FormationChange,3-4-3
+1640923,Chelsea,15,1,0,0,FormationSet,3-4-3
+1640931,Southampton,18,1,0,0,FormationSet,4-4-2
+1640933,Wolves,161,2,56,19,FormationChange,18
+1640933,Leeds,19,2,66,25,FormationChange,5-4-1
+1640933,Wolves,161,2,76,3,FormationChange,18
+1640933,Wolves,161,1,0,0,FormationSet,4-3-3
+1640915,Crystal Palace,162,2,65,3,FormationChange,4-2-3-1
+1640915,Arsenal,13,2,82,47,FormationChange,4-3-3
+1640915,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640935,Arsenal,13,2,59,20,FormationChange,4-3-3
+1640935,Leeds,19,2,65,0,FormationChange,4-3-3
+1640935,Leeds,19,2,73,53,FormationChange,4-3-3
+1640935,Arsenal,13,2,85,33,FormationChange,4-3-3
+1640935,Leeds,19,1,0,0,FormationSet,4-3-3
+1640937,Bournemouth,183,1,0,0,FormationSet,4-4-1-1
+1640939,Brighton,211,2,71,20,FormationChange,4-4-2
+1640939,Brighton,211,2,82,41,FormationChange,4-4-2
+1640939,Brentford,189,2,84,38,FormationChange,5-3-2
+1640939,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1640941,Aston Villa,24,2,45,1,FormationChange,4-4-2
+1640941,Chelsea,15,2,56,54,FormationChange,3-4-2-1
+1640941,Chelsea,15,2,79,44,FormationChange,3-4-2-1
+1640941,Chelsea,15,1,0,0,FormationSet,3-4-2-1
+1640943,Crystal Palace,162,1,45,34,FormationChange,4-3-3
+1640943,Leicester,14,2,45,0,FormationChange,4-2-3-1
+1640943,Crystal Palace,162,1,0,0,FormationSet,4-3-3
+1640947,Liverpool,26,2,69,42,FormationChange,4-2-3-1
+1640947,Liverpool,26,2,81,56,FormationChange,4-3-3
+1640947,Man City,167,1,0,0,FormationSet,24
+1640951,Wolves,161,2,64,30,FormationChange,4-2-3-1
+1640951,Nottingham Forest,174,1,0,0,FormationSet,9
+1640949,Man Utd,32,2,83,32,FormationChange,18
+1640949,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640953,West Ham,29,1,0,0,FormationSet,4-3-3
+1640945,Everton,31,2,57,33,FormationChange,4-1-4-1
+1640945,Everton,31,2,76,22,FormationChange,4-1-4-1
+1640945,Everton,31,1,0,0,FormationSet,4-1-4-1
+1640735,Bournemouth,183,2,57,51,FormationChange,4-4-1-1
+1640735,Bournemouth,183,2,84,45,FormationChange,4-4-2
+1640735,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1640747,Liverpool,26,2,65,7,FormationChange,4-3-3
+1640747,Chelsea,15,2,69,7,FormationChange,3-5-2
+1640747,Liverpool,26,2,78,45,FormationChange,4-3-3
+1640747,Chelsea,15,1,0,0,FormationSet,3-5-2
+1640738,Nottingham Forest,174,2,63,22,FormationChange,9
+1640738,Nottingham Forest,174,2,71,5,FormationChange,4-2-3-1
+1640738,Leeds,19,2,73,25,FormationChange,4-2-3-1
+1640738,Leeds,19,2,91,25,FormationChange,4-2-2-2
+1640738,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640739,Aston Villa,24,2,78,28,FormationChange,4-4-2
+1640739,Aston Villa,24,1,0,0,FormationSet,4-4-2
+1640968,Man Utd,32,2,70,30,FormationChange,4-2-3-1
+1640968,Man Utd,32,2,85,44,FormationChange,5-4-1
+1640968,Brentford,189,1,0,0,FormationSet,5-3-2
+1640743,Newcastle,23,2,63,53,FormationChange,4-3-3
+1640743,Newcastle,23,2,86,40,FormationChange,4-3-3
+1640743,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640955,Nottingham Forest,174,2,64,49,FormationChange,9
+1640955,Nottingham Forest,174,2,77,54,FormationChange,9
+1640955,Nottingham Forest,174,1,0,0,FormationSet,3-4-2-1
+1640957,Brentford,189,1,15,53,FormationChange,5-3-2
+1640957,Newcastle,23,2,45,1,FormationChange,4-4-1-1
+1640957,Brentford,189,2,81,20,FormationChange,5-4-1
+1640957,Newcastle,23,2,87,3,FormationChange,4-3-3
+1640957,Brentford,189,1,0,0,FormationSet,5-3-2
+1640959,Fulham,170,2,45,1,FormationChange,4-2-3-1
+1640959,West Ham,29,1,0,0,FormationSet,4-4-2
+1640963,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1640967,Man Utd,32,2,60,0,FormationChange,4-2-3-1
+1640967,Man Utd,32,2,80,15,FormationChange,4-2-3-1
+1640967,Everton,31,2,86,49,FormationChange,4-4-2
+1640967,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640969,Man City,167,2,57,5,FormationChange,4-2-3-1
+1640969,Southampton,18,2,68,49,FormationChange,4-3-3
+1640969,Southampton,18,2,79,51,FormationChange,3-4-2-1
+1640969,Southampton,18,1,0,0,FormationSet,4-4-2
+1640971,Tottenham,30,2,77,18,FormationChange,3-4-2-1
+1640971,Tottenham,30,1,0,0,FormationSet,3-4-2-1
+1640973,Chelsea,15,2,60,5,FormationChange,4-3-3
+1640973,Chelsea,15,2,67,11,FormationChange,4-3-3
+1640973,Wolves,161,2,74,29,FormationChange,5
+1640973,Wolves,161,2,95,9,FormationChange,5-4-1
+1640973,Wolves,161,1,0,0,FormationSet,4-4-2
+1640961,Leeds,19,2,60,0,FormationChange,4-2-3-1
+1640961,Crystal Palace,162,2,73,8,FormationChange,4-3-3
+1640961,Crystal Palace,162,2,79,59,FormationChange,4-3-3
+1640961,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640965,Liverpool,26,2,60,1,FormationChange,4-3-3
+1640965,Arsenal,13,2,80,10,FormationChange,5-4-1
+1640965,Liverpool,26,2,82,23,FormationChange,4-3-3
+1640965,Liverpool,26,1,0,0,FormationSet,4-3-3
+1640974,Newcastle,23,2,55,10,FormationChange,4-4-2
+1640974,Newcastle,23,2,67,15,FormationChange,4-3-3
+1640974,Aston Villa,24,2,84,15,FormationChange,4-2-3-1
+1640974,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640975,Brighton,211,1,27,33,FormationChange,4-2-3-1
+1640975,Chelsea,15,2,56,54,FormationChange,4-2-3-1
+1640975,Chelsea,15,2,73,7,FormationChange,4-2-3-1
+1640975,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1640976,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640978,Man City,167,2,61,7,FormationChange,24
+1640978,Leicester,14,2,61,34,FormationChange,3-4-2-1
+1640978,Leicester,14,2,86,21,FormationChange,3-4-2-1
+1640978,Man City,167,1,0,0,FormationSet,24
+1640980,Southampton,18,2,61,47,FormationChange,4-2-3-1
+1640980,Crystal Palace,162,2,73,15,FormationChange,4-3-3
+1640980,Southampton,18,2,79,19,FormationChange,4-2-3-1
+1640980,Southampton,18,1,0,0,FormationSet,4-4-2
+1640981,Tottenham,30,1,35,1,FormationChange,3-4-2-1
+1640981,Bournemouth,183,2,48,39,FormationChange,3-4-2-1
+1640981,Tottenham,30,2,58,7,FormationChange,4-2-3-1
+1640981,Bournemouth,183,2,65,40,FormationChange,5-4-1
+1640981,Bournemouth,183,2,78,20,FormationChange,5-4-1
+1640981,Tottenham,30,1,0,0,FormationSet,3-4-2-1
+1640983,Wolves,161,2,88,56,FormationChange,5-4-1
+1640983,Wolves,161,1,0,0,FormationSet,4-4-2
+1640979,Nottingham Forest,174,2,80,21,FormationChange,4-2-3-1
+1640979,Nottingham Forest,174,1,0,0,FormationSet,18
+1640982,Arsenal,13,2,66,4,FormationChange,4-3-3
+1640982,Arsenal,13,2,84,49,FormationChange,4-3-3
+1640982,Arsenal,13,2,89,46,FormationChange,4-3-3
+1640982,West Ham,29,1,0,0,FormationSet,4-3-3
+1640977,Leeds,19,2,65,50,FormationChange,4-2-3-1
+1640977,Leeds,19,2,76,39,FormationChange,4-3-3
+1640977,Liverpool,26,2,81,24,FormationChange,4-3-3
+1640977,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1640988,Southampton,18,2,45,0,FormationChange,5-3-2
+1640988,Arsenal,13,2,71,35,FormationChange,19
+1640988,Southampton,18,2,76,43,FormationChange,5-4-1
+1640988,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640992,Brentford,189,2,45,0,FormationChange,4-3-3
+1640992,Aston Villa,24,2,65,50,FormationChange,4-2-3-1
+1640992,Aston Villa,24,1,0,0,FormationSet,4-2-3-1
+1640996,Crystal Palace,162,2,77,37,FormationChange,4-3-3
+1640996,Everton,31,2,81,1,FormationChange,4-2-3-1
+1640996,Crystal Palace,162,1,0,0,FormationSet,4-3-3
+1640998,Leeds,19,2,64,35,FormationChange,4-2-3-1
+1640998,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1641000,Wolves,161,2,57,41,FormationChange,4-2-3-1
+1641000,Leicester,14,1,0,0,FormationSet,4-2-3-1
+1641002,Nottingham Forest,174,1,29,32,FormationChange,3-4-2-1
+1641002,Nottingham Forest,174,2,75,39,FormationChange,3-4-2-1
+1641002,Nottingham Forest,174,2,86,16,FormationChange,3-4-2-1
+1641002,Nottingham Forest,174,1,0,0,FormationSet,3-4-2-1
+1640990,Bournemouth,183,2,45,0,FormationChange,3-4-2-1
+1640990,West Ham,29,2,76,7,FormationChange,4-3-3
+1640990,Bournemouth,183,1,0,0,FormationSet,3-4-2-1
+1641006,Tottenham,30,1,22,57,FormationChange,3-4-3
+1641006,Tottenham,30,2,45,2,FormationChange,3-4-3
+1641006,Newcastle,23,2,69,44,FormationChange,4-3-3
+1641006,Tottenham,30,2,71,19,FormationChange,3-4-3
+1641006,Newcastle,23,1,0,0,FormationSet,4-3-3
+1641020,Fulham,170,2,67,28,FormationChange,4-2-3-1
+1641020,Fulham,170,2,83,2,FormationChange,4-4-2
+1641020,Aston Villa,24,1,0,0,FormationSet,4-2-3-1
+1641010,Leicester,14,2,69,52,FormationChange,4-2-3-1
+1641010,Leicester,14,2,81,11,FormationChange,4-2-3-1
+1641010,Leeds,19,1,0,0,FormationSet,4-2-3-1
+1641018,Crystal Palace,162,2,45,2,FormationChange,4-3-3
+1641018,Crystal Palace,162,2,64,17,FormationChange,4-3-3
+1641018,Wolves,161,2,88,32,FormationChange,5-3-2
+1641018,Crystal Palace,162,2,88,55,FormationChange,4-3-3
+1641018,Wolves,161,1,0,0,FormationSet,4-4-2
+1641022,Chelsea,15,2,45,17,FormationChange,4-2-3-1
+1641022,Chelsea,15,2,78,41,FormationChange,4-2-3-1
+1641022,Brentford,189,2,82,7,FormationChange,5-3-2
+1641022,Brentford,189,1,0,0,FormationSet,5-3-2
+1641024,Arsenal,13,2,59,24,FormationChange,4-3-3
+1641024,Man City,167,2,71,4,FormationChange,4-3-3
+1641024,Man City,167,2,79,57,FormationChange,4-4-2
+1641024,Arsenal,13,2,80,1,FormationChange,4-3-3
+1641024,Arsenal,13,1,0,0,FormationSet,4-3-3
+1641012,Nottingham Forest,174,1,13,11,FormationChange,3-4-2-1
+1641012,Nottingham Forest,174,2,64,21,FormationChange,9
+1641012,Brighton,211,2,72,3,FormationChange,4-2-3-1
+1641012,Nottingham Forest,174,2,85,39,FormationChange,5
+1641012,Brighton,211,2,87,18,FormationChange,4-2-3-1
+1641012,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1641016,Liverpool,26,2,58,57,FormationChange,4-3-3
+1641016,Liverpool,26,2,84,5,FormationChange,4-3-3
+1641016,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1641008,Newcastle,23,1,16,58,FormationChange,4-3-3
+1641008,Newcastle,23,2,73,15,FormationChange,4-3-3
+1641008,Newcastle,23,2,86,53,FormationChange,4-3-3
+1641008,Newcastle,23,1,0,0,FormationSet,4-3-3
+1641023,Southampton,18,1,36,7,FormationChange,4-4-2
+1641023,Southampton,18,2,45,0,FormationChange,3-4-2-1
+1641023,Southampton,18,2,60,37,FormationChange,3-4-2-1
+1641023,Bournemouth,183,2,67,20,FormationChange,3-4-2-1
+1641023,Southampton,18,2,75,32,FormationChange,3-4-2-1
+1641023,Bournemouth,183,1,0,0,FormationSet,3-4-2-1
+1641014,Tottenham,30,2,60,40,FormationChange,3-4-2-1
+1641014,Man Utd,32,2,60,49,FormationChange,4-2-3-1
+1641014,Man Utd,32,2,71,12,FormationChange,4-2-3-1
+1641014,Tottenham,30,2,76,40,FormationChange,4-4-1-1
+1641014,Tottenham,30,2,86,52,FormationChange,5-4-1
+1641014,Tottenham,30,1,0,0,FormationSet,3-4-2-1
+1641027,Brentford,189,2,59,27,FormationChange,3-4-3
+1641027,Brentford,189,2,70,45,FormationChange,3-4-3
+1641027,Brentford,189,2,76,6,FormationChange,3-4-3
+1641027,Brentford,189,1,0,0,FormationSet,4-3-3
+1641028,Wolves,161,1,12,53,FormationChange,5
+1641028,Wolves,161,1,24,35,FormationChange,5-4-1
+1641028,Wolves,161,1,46,4,FormationChange,5-4-1
+1641028,Wolves,161,2,45,0,FormationChange,3-4-3
+1641028,Brighton,211,2,55,46,FormationChange,4-2-3-1
+1641028,Brighton,211,2,64,49,FormationChange,4-2-3-1
+1641028,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1641029,West Ham,29,1,18,50,FormationChange,4-2-3-1
+1641029,West Ham,29,2,68,26,FormationChange,4-4-2
+1641029,Crystal Palace,162,2,83,30,FormationChange,4-3-3
+1641029,Crystal Palace,162,1,0,0,FormationSet,4-3-3
+1641026,Leeds,19,1,33,16,FormationChange,3-4-3
+1641026,Leeds,19,1,0,0,FormationSet,3-4-3
+1641030,Fulham,170,1,21,14,FormationChange,4-2-3-1
+1641030,Fulham,170,2,58,1,FormationChange,4-2-3-1
+1641030,Fulham,170,2,76,3,FormationChange,4-2-3-1
+1641030,Man City,167,2,82,15,FormationChange,4-2-3-1
+1641030,Man City,167,1,0,0,FormationSet,24
+1641032,Tottenham,30,2,65,27,FormationChange,5-3-2
+1641032,Liverpool,26,2,72,48,FormationChange,4-3-3
+1641032,Tottenham,30,2,83,52,FormationChange,18
+1641032,Liverpool,26,1,0,0,FormationSet,4-3-3
+1641033,Aston Villa,24,2,63,55,FormationChange,4-2-3-1
+1641033,Man Utd,32,1,0,0,FormationSet,4-1-4-1
+1641034,Newcastle,23,2,45,0,FormationChange,4-3-3
+1641034,Southampton,18,1,0,0,FormationSet,4-4-2
+1641031,Everton,31,2,45,0,FormationChange,4-2-3-1
+1641031,Leicester,14,2,60,56,FormationChange,4-2-3-1
+1641031,Leicester,14,1,0,0,FormationSet,4-3-3
+1641025,Chelsea,15,2,70,36,FormationChange,4-2-3-1
+1641025,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640925,Fulham,170,2,71,1,FormationChange,4-2-3-1
+1640925,Liverpool,26,2,83,16,FormationChange,4-3-3
+1640925,Liverpool,26,1,0,0,FormationSet,4-3-3
+1640927,Man City,167,1,0,0,FormationSet,24
+1640921,Brighton,211,2,75,0,FormationChange,3-4-2-1
+1640921,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1641035,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1641038,Liverpool,26,2,72,25,FormationChange,4-3-3
+1641038,Brentford,189,2,87,16,FormationChange,3-4-2-1
+1641038,Liverpool,26,1,0,0,FormationSet,4-3-3
+1641039,Leeds,19,2,45,6,FormationChange,4-2-3-1
+1641039,Man City,167,2,53,51,FormationChange,24
+1641039,Leeds,19,2,79,56,FormationChange,5-3-2
+1641039,Man City,167,2,92,57,FormationChange,24
+1641039,Man City,167,1,0,0,FormationSet,24
+1641042,Tottenham,30,1,0,0,FormationSet,3-4-3
+1641044,Aston Villa,24,2,64,40,FormationChange,4-4-2
+1641044,Wolves,161,2,83,5,FormationChange,3-4-2-1
+1641044,Aston Villa,24,1,0,0,FormationSet,4-4-2
+1641040,Newcastle,23,2,77,50,FormationChange,4-3-3
+1641040,Arsenal,13,2,79,54,FormationChange,4-3-3
+1641040,Arsenal,13,1,0,0,FormationSet,4-3-3
+1641043,Man Utd,32,2,56,46,FormationChange,4-2-3-1
+1641043,Man Utd,32,2,87,17,FormationChange,4-2-3-1
+1641043,West Ham,29,2,95,25,FormationChange,4-2-3-1
+1641043,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1641036,Brighton,211,2,45,3,FormationChange,4-2-3-1
+1641036,Brighton,211,2,77,49,FormationChange,4-2-3-1
+1641036,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1641037,Fulham,170,2,76,49,FormationChange,4-2-3-1
+1641037,Fulham,170,2,81,43,FormationChange,4-2-3-1
+1641037,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1641041,Nottingham Forest,174,2,69,24,FormationChange,4-3-3
+1641041,Nottingham Forest,174,2,80,54,FormationChange,5-4-1
+1641041,Nottingham Forest,174,1,0,0,FormationSet,4-3-3
+1641046,Aston Villa,24,2,68,1,FormationChange,4-4-2
+1641046,Tottenham,30,2,80,39,FormationChange,3-4-3
+1641046,Tottenham,30,2,89,47,FormationChange,3-4-3
+1641046,Aston Villa,24,2,90,55,FormationChange,5
+1641046,Aston Villa,24,1,0,0,FormationSet,4-4-2
+1641048,Nottingham Forest,174,1,0,0,FormationSet,3-4-2-1
+1641049,Crystal Palace,162,2,50,36,FormationChange,4-3-3
+1641049,Bournemouth,183,2,59,44,FormationChange,4-4-2
+1641049,Bournemouth,183,1,0,0,FormationSet,4-2-3-1
+1641051,Newcastle,23,2,45,0,FormationChange,4-2-3-1
+1641051,Newcastle,23,2,72,23,FormationChange,4-2-3-1
+1641051,Leeds,19,1,0,0,FormationSet,4-3-3
+1641053,Wolves,161,2,45,0,FormationChange,4-4-2
+1641053,Man Utd,32,2,81,8,FormationChange,4-2-3-1
+1641053,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640984,Fulham,170,2,69,4,FormationChange,4-2-3-1
+1640984,Southampton,18,2,81,26,FormationChange,4-2-3-1
+1640984,Southampton,18,1,0,0,FormationSet,4-2-3-1
+1641045,Brighton,211,1,42,0,FormationChange,4-2-3-1
+1641045,Brighton,211,2,59,58,FormationChange,4-2-3-1
+1641045,Arsenal,13,2,59,59,FormationChange,4-3-3
+1641045,Arsenal,13,2,76,42,FormationChange,4-3-3
+1641045,Brighton,211,2,81,58,FormationChange,4-2-3-1
+1641045,Arsenal,13,1,0,0,FormationSet,4-3-3
+1641047,West Ham,29,2,58,16,FormationChange,4-4-2
+1641047,Brentford,189,2,77,14,FormationChange,4-3-3
+1641047,West Ham,29,2,82,57,FormationChange,4-2-3-1
+1641047,Brentford,189,1,0,0,FormationSet,4-3-3
+1641050,Everton,31,2,58,8,FormationChange,5-4-1
+1641050,Man City,167,2,77,40,FormationChange,4-2-3-1
+1641050,Man City,167,2,90,44,FormationChange,4-2-3-1
+1641050,Everton,31,1,0,0,FormationSet,4-2-3-1
+1641052,Leicester,14,2,60,51,FormationChange,4-2-3-1
+1641052,Leicester,14,2,66,56,FormationChange,4-2-3-1
+1641052,Liverpool,26,2,73,40,FormationChange,4-3-3
+1641052,Leicester,14,2,88,58,FormationChange,4-2-3-1
+1641052,Leicester,14,1,0,0,FormationSet,4-2-3-1
+1640970,Brighton,211,2,68,58,FormationChange,4-2-3-1
+1640970,Newcastle,23,2,93,9,FormationChange,4-3-3
+1640970,Newcastle,23,2,94,41,FormationChange,4-3-3
+1640970,Newcastle,23,1,0,0,FormationSet,4-3-3
+1640985,Bournemouth,183,2,55,5,FormationChange,4-2-3-1
+1640985,Man Utd,32,2,85,51,FormationChange,4-2-3-1
+1640985,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1640987,Fulham,170,2,79,39,FormationChange,4-2-3-1
+1640987,Fulham,170,1,0,0,FormationSet,4-2-3-1
+1640989,Aston Villa,24,2,64,38,FormationChange,4-2-3-1
+1640989,Liverpool,26,2,64,40,FormationChange,4-3-3
+1640989,Liverpool,26,2,71,45,FormationChange,4-3-3
+1640989,Liverpool,26,2,80,58,FormationChange,4-3-3
+1640989,Aston Villa,24,1,0,0,FormationSet,4-2-3-1
+1640995,Arsenal,13,2,63,7,FormationChange,4-3-3
+1640995,Arsenal,13,1,0,0,FormationSet,4-3-3
+1640997,Tottenham,30,2,65,3,FormationChange,4-4-2
+1640997,Tottenham,30,2,74,18,FormationChange,4-4-2
+1640997,Brentford,189,2,77,45,FormationChange,5-3-2
+1640997,Brentford,189,1,0,0,FormationSet,4-3-3
+1641001,Everton,31,1,46,20,FormationChange,4-2-3-1
+1641001,Everton,31,2,81,11,FormationChange,4-2-3-1
+1641001,Wolves,161,1,0,0,FormationSet,4-4-2
+1640986,Brighton,211,2,73,23,FormationChange,4-4-2
+1640986,Brighton,211,2,88,15,FormationChange,4-4-2
+1640986,Brighton,211,1,0,0,FormationSet,4-2-3-1
+1640991,Man City,167,2,73,8,FormationChange,20
+1640991,Man City,167,2,77,35,FormationChange,4-3-3
+1640991,Chelsea,15,2,80,43,FormationChange,18
+1640991,Man City,167,1,0,0,FormationSet,20
+1640999,Leeds,19,2,45,0,FormationChange,4-3-3
+1640999,Leeds,19,2,61,45,FormationChange,4-2-3-1
+1640999,Leeds,19,2,83,58,FormationChange,3-4-3
+1640999,West Ham,29,2,93,10,FormationChange,4-2-3-1
+1640999,West Ham,29,1,0,0,FormationSet,4-2-3-1
+1640993,Leicester,14,2,62,45,FormationChange,4-3-3
+1640993,Newcastle,23,2,67,34,FormationChange,4-3-3
+1640993,Newcastle,23,2,76,58,FormationChange,4-3-3
+1640993,Leicester,14,1,0,0,FormationSet,5-3-2
+1640994,Brighton,211,2,51,32,FormationChange,4-4-2
+1640994,Man City,167,2,56,45,FormationChange,4-4-1-1
+1640994,Brighton,211,2,74,44,FormationChange,4-4-2
+1640994,Man City,167,2,83,45,FormationChange,4-4-1-1
+1640994,Man City,167,1,0,0,FormationSet,4-3-3
+1641004,Man Utd,32,1,28,12,FormationChange,4-2-3-1
+1641004,Man Utd,32,2,69,46,FormationChange,4-2-3-1
+1641004,Chelsea,15,2,81,24,FormationChange,4-2-3-1
+1641004,Man Utd,32,2,85,5,FormationChange,4-2-3-1
+1641004,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1641003,Wolves,161,2,45,0,FormationChange,4-3-3
+1641003,Arsenal,13,2,74,45,FormationChange,4-3-3
+1641003,Arsenal,13,2,79,13,FormationChange,4-4-1-1
+1641003,Wolves,161,1,0,0,FormationSet,4-3-3
+1641005,Brighton,211,2,45,0,FormationChange,4-4-2
+1641005,Aston Villa,24,2,68,22,FormationChange,4-2-3-1
+1641005,Brighton,211,1,0,0,FormationSet,4-4-2
+1641007,Man City,167,2,62,46,FormationChange,4-2-3-1
+1641007,Brentford,189,2,80,57,FormationChange,5-3-2
+1641007,Brentford,189,2,88,25,FormationChange,5-3-2
+1641007,Brentford,189,1,0,0,FormationSet,5-3-2
+1641009,Chelsea,15,1,0,0,FormationSet,4-2-3-1
+1641011,Nottingham Forest,174,2,71,41,FormationChange,4-2-3-1
+1641011,Crystal Palace,162,1,0,0,FormationSet,4-2-3-1
+1641013,Bournemouth,183,2,55,50,FormationChange,4-2-3-1
+1641013,Bournemouth,183,2,82,35,FormationChange,4-2-3-1
+1641013,Everton,31,1,0,0,FormationSet,3-4-2-1
+1641015,Leeds,19,2,59,28,FormationChange,3-4-2-1
+1641015,Leeds,19,1,0,0,FormationSet,5-4-1
+1641017,West Ham,29,2,61,59,FormationChange,4-2-3-1
+1641017,West Ham,29,2,71,3,FormationChange,4-2-3-1
+1641017,Leicester,14,1,0,0,FormationSet,4-2-3-1
+1641019,Man Utd,32,2,67,42,FormationChange,5
+1641019,Man Utd,32,2,76,21,FormationChange,5
+1641019,Fulham,170,2,79,30,FormationChange,4-2-3-1
+1641019,Man Utd,32,1,0,0,FormationSet,4-2-3-1
+1641021,Liverpool,26,2,63,5,FormationChange,4-1-4-1
+1641021,Southampton,18,2,86,8,FormationChange,5-4-1
+1641021,Liverpool,26,1,0,0,FormationSet,4-3-3

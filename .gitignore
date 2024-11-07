@@ -32,7 +32,6 @@ build/
 *.env
 
 # Data files
-*.csv
 *.tsv
 *.xlsx
 *.json
