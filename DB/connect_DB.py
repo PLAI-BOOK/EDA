@@ -29,5 +29,3 @@ def get_db_connection(db_name=None):
     #     return None
 
 
-
-
